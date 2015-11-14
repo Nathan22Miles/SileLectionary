@@ -87,7 +87,7 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <EnableCOMDATFolding>true</EnableCOMDATFolding>
       <OptimizeReferences>true</OptimizeReferences>
-      <AdditionalDependencies>$(SolutionDir)freetype\objs\vc2010\Win32\freetype261.lib;$(SolutionDir)harfbuzz\win32\libs\Release\harfbuzz.lib;$(SolutionDir)fontconfig\release\fontconfig.lib;C:\lua\5.1\lib\lua5.1.lib;usp10.lib;%(AdditionalDependencies);Rpcrt4.lib</AdditionalDependencies>
+      <AdditionalDependencies>$(SolutionDir)freetype\objs\vc2010\Win32\freetype261.lib;$(SolutionDir)harfbuzz\libs\Release\harfbuzz.lib;$(SolutionDir)fontconfig\release\fontconfig.lib;C:\lua\5.1\lib\lua5.1.lib;usp10.lib;%(AdditionalDependencies);Rpcrt4.lib</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
