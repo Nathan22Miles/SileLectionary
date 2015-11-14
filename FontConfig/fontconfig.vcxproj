@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="dirent.c" />
+    <ClCompile Include="src\fcatomic.c" />
+    <ClCompile Include="src\fcblanks.c" />
+    <ClCompile Include="src\fccache.c" />
+    <ClCompile Include="src\fccfg.c" />
+    <ClCompile Include="src\fccharset.c" />
+    <ClCompile Include="src\fcdbg.c" />
+    <ClCompile Include="src\fcdefault.c" />
+    <ClCompile Include="src\fcdir.c" />
+    <ClCompile Include="src\fcformat.c" />
+    <ClCompile Include="src\fcfreetype.c" />
+    <ClCompile Include="src\fcfs.c" />
+    <ClCompile Include="src\fcinit.c" />
+    <ClCompile Include="src\fclang.c" />
+    <ClCompile Include="src\fclist.c" />
+    <ClCompile Include="src\fcmatch.c" />
+    <ClCompile Include="src\fcmatrix.c" />
+    <ClCompile Include="src\fcname.c" />
+    <ClCompile Include="src\fcpat.c" />
+    <ClCompile Include="src\fcserialize.c" />
+    <ClCompile Include="src\fcstat.c" />
+    <ClCompile Include="src\fcstr.c" />
+    <ClCompile Include="src\fcxml.c" />
+    <ClCompile Include="src\ftglue.c" />
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{54FD13B2-25DF-436E-870C-354488550FCE}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>fontconfig</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v110</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v110</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+    <TargetExt>.dll</TargetExt>
+    <IncludePath>C:\MinGW\msys\1.0\home\Miles\Expat-win32bin-2.1.0\Source\lib;C:\MinGW\msys\1.0\home\Miles\freetype\include;C:\MinGW\msys\1.0\home\Miles\FontConfig;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\MinGW\msys\1.0\home\Miles\iconv-1.9.2.win32\lib;C:\MinGW\msys\1.0\home\Miles\freetype\objs\vc2010\Win32;C:\MinGW\msys\1.0\home\Miles\Expat-win32bin-2.1.0\Bin;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+    <IncludePath>..\Expat-win32bin\Source\lib;..\freetype\include;..\FontConfig;$(IncludePath)</IncludePath>
+    <LibraryPath>..\iconv-1.9.2.win32\lib;..\freetype\objs\vc2010\Win32;..\Expat-win32bin\Source\win32\bin\Release;$(LibraryPath)</LibraryPath>
+    <OutDir>$(SolutionDir)\FontConfig\$(Configuration)\</OutDir>
+    <IntDir>$(SolutionDir)\FontConfig\$(Configuration)\</IntDir>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;HAVE_CONFIG_H;_WINDOWS;_USRDLL;FONTCONFIG_EXPORTS;DLL_EXPORT;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>D:\Users\Dossantos\MyDev\mylib\gtk_compilation\VS10\Win32\Debug\include;D:\Users\Dossantos\MyDev\msvc\fontconfig\fontconfig;D:\Users\Dossantos\MyDev\msvc\fontconfig\src;D:\Users\Dossantos\MyDev\msvc\fontconfig;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>D:\Users\Dossantos\MyDev\mylib\gtk_compilation\VS10\Win32\Debug\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>libexpat.lib;freetype261.lib;iconv.lib</AdditionalDependencies>
+      <ModuleDefinitionFile>fontconfig.def</ModuleDefinitionFile>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;HAVE_CONFIG_H;_WINDOWS;_USRDLL;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>D:\Users\Dossantos\MyDev\mylib\gtk_compilation\VS10\Win32\Release\include;D:\Users\Dossantos\MyDev\msvc\fontconfig\fontconfig;D:\Users\Dossantos\MyDev\msvc\fontconfig\src;D:\Users\Dossantos\MyDev\msvc\fontconfig;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <AdditionalLibraryDirectories>D:\Users\Dossantos\MyDev\mylib\gtk_compilation\VS10\Win32\Release\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>libexpat.lib;freetype261.lib;iconv.lib</AdditionalDependencies>
+      <ModuleDefinitionFile>fontconfig.def</ModuleDefinitionFile>
+      <RandomizedBaseAddress>false</RandomizedBaseAddress>
+    </Link>
+  </ItemDefinitionGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
