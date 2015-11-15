@@ -6,7 +6,20 @@ I am sorry that this is a complicated mess. That is a result of gathering compon
   * Output is in Expat-win32bin\Source\win32\bin\Release
 2. Download and unzip http://xmlsoft.org/sources/win32/iconv-1.9.2.win32.zip into your build directory
 3. Download and install Lua for Windows () into c:\Lua (warning, not the default install directory)
-4. Open SileLectionary.sln, change to "Release", and build
+4. Open SileLectionary.sln
+  1. change to "Release"
+  2. build
+  3. build (have to do it twice)
+5. Build justenoughlibtexpdf.dll
+  1. Go to libtexpdf using mingw shell
+  2. make
+    1. This will cause .o files to be built and then libtool will fail mysteriously
+  3. ./link_win32
+6. Copy dlls to ..\Sile
+  1. justenoughlibtexpdf.dll
+  2. jehbvc.dll (rename as justenoughharfbuzz.dll)
+  3. FontConfig.dll
+  4. libexpat.dll
 
 
 Appendix - Build Dependencies
