@@ -1,0 +1,35 @@
+libtexpdf_la-dpxutil.lo: dpxutil.c config.h \
+ c:\mingw\lib\gcc\mingw32\4.8.1\include\stdarg.h c:\mingw\include\stdio.h \
+ c:\mingw\include\_mingw.h \
+ c:\mingw\lib\gcc\mingw32\4.8.1\include\stddef.h \
+ c:\mingw\include\sys\types.h c:\mingw\include\stdlib.h \
+ c:\mingw\include\string.h c:\mingw\include\time.h mem.h error.h \
+ c:\mingw\include\assert.h dpxutil.h c:\mingw\include\ctype.h
+
+config.h:
+
+c:\mingw\lib\gcc\mingw32\4.8.1\include\stdarg.h:
+
+c:\mingw\include\stdio.h:
+
+c:\mingw\include\_mingw.h:
+
+c:\mingw\lib\gcc\mingw32\4.8.1\include\stddef.h:
+
+c:\mingw\include\sys\types.h:
+
+c:\mingw\include\stdlib.h:
+
+c:\mingw\include\string.h:
+
+c:\mingw\include\time.h:
+
+mem.h:
+
+error.h:
+
+c:\mingw\include\assert.h:
+
+dpxutil.h:
+
+c:\mingw\include\ctype.h:

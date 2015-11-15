@@ -1,0 +1,174 @@
+libtexpdf_la-cidtype2.lo: cidtype2.c libtexpdf.h ../libtexpdf/config.h \
+ c:\mingw\include\string.h c:\mingw\include\_mingw.h \
+ c:\mingw\lib\gcc\mingw32\4.8.1\include\stddef.h \
+ c:\mingw\lib\gcc\mingw32\4.8.1\include\stdint.h \
+ c:\mingw\include\stdint.h agl.h bmpimage.h mfileio.h \
+ c:\mingw\include\stdio.h c:\mingw\lib\gcc\mingw32\4.8.1\include\stdarg.h \
+ c:\mingw\include\sys\types.h numbers.h c:\mingw\include\math.h \
+ c:\mingw\include\inttypes.h pdfximage.h pdfdev.h pdfobj.h pdfcolor.h \
+ pdftypes.h dpxutil.h c:\mingw\include\ctype.h pdfdoc.h fontmap.h cff.h \
+ cff_types.h cff_dict.h cff_limits.h c:\mingw\include\limits.h cid.h \
+ type0.h cid_p.h cidtype0.h cidtype2.h cmap.h cmap_p.h cmap_read.h \
+ cmap_write.h cs_type2.h dpxcrypt.h dpxfile.h epdf.h error.h \
+ c:\mingw\include\assert.h jp2image.h jpegimage.h mem.h \
+ c:\mingw\include\stdlib.h otl_conf.h otl_opt.h pdfdraw.h pdfencoding.h \
+ pdfencrypt.h pdffont.h pdflimits.h pdfnames.h pdfparse.h pdfresource.h \
+ pkfont.h pngimage.h pst.h pst_obj.h sfnt.h subfont.h t1_char.h t1_load.h \
+ tfm.h truetype.h tt_aux.h tt_cmap.h tt_glyf.h tt_gsub.h tt_post.h \
+ tt_table.h type1.h type1c.h unicode.h
+
+libtexpdf.h:
+
+../libtexpdf/config.h:
+
+c:\mingw\include\string.h:
+
+c:\mingw\include\_mingw.h:
+
+c:\mingw\lib\gcc\mingw32\4.8.1\include\stddef.h:
+
+c:\mingw\lib\gcc\mingw32\4.8.1\include\stdint.h:
+
+c:\mingw\include\stdint.h:
+
+agl.h:
+
+bmpimage.h:
+
+mfileio.h:
+
+c:\mingw\include\stdio.h:
+
+c:\mingw\lib\gcc\mingw32\4.8.1\include\stdarg.h:
+
+c:\mingw\include\sys\types.h:
+
+numbers.h:
+
+c:\mingw\include\math.h:
+
+c:\mingw\include\inttypes.h:
+
+pdfximage.h:
+
+pdfdev.h:
+
+pdfobj.h:
+
+pdfcolor.h:
+
+pdftypes.h:
+
+dpxutil.h:
+
+c:\mingw\include\ctype.h:
+
+pdfdoc.h:
+
+fontmap.h:
+
+cff.h:
+
+cff_types.h:
+
+cff_dict.h:
+
+cff_limits.h:
+
+c:\mingw\include\limits.h:
+
+cid.h:
+
+type0.h:
+
+cid_p.h:
+
+cidtype0.h:
+
+cidtype2.h:
+
+cmap.h:
+
+cmap_p.h:
+
+cmap_read.h:
+
+cmap_write.h:
+
+cs_type2.h:
+
+dpxcrypt.h:
+
+dpxfile.h:
+
+epdf.h:
+
+error.h:
+
+c:\mingw\include\assert.h:
+
+jp2image.h:
+
+jpegimage.h:
+
+mem.h:
+
+c:\mingw\include\stdlib.h:
+
+otl_conf.h:
+
+otl_opt.h:
+
+pdfdraw.h:
+
+pdfencoding.h:
+
+pdfencrypt.h:
+
+pdffont.h:
+
+pdflimits.h:
+
+pdfnames.h:
+
+pdfparse.h:
+
+pdfresource.h:
+
+pkfont.h:
+
+pngimage.h:
+
+pst.h:
+
+pst_obj.h:
+
+sfnt.h:
+
+subfont.h:
+
+t1_char.h:
+
+t1_load.h:
+
+tfm.h:
+
+truetype.h:
+
+tt_aux.h:
+
+tt_cmap.h:
+
+tt_glyf.h:
+
+tt_gsub.h:
+
+tt_post.h:
+
+tt_table.h:
+
+type1.h:
+
+type1c.h:
+
+unicode.h:

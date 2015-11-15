@@ -2,11 +2,11 @@
 
 I am sorry that this is a complicated mess. That is a result of gathering components from a wide variety of sources and not having the time or expertise to put them into a common framework.
 
-1. Open Expat-win32bin\Source\expat.sln in VS2012 and build solution. 
+1. Open Expat-win32bin\Source\expat.sln in VS2012, change to "Release", build solution. 
   * Output is in Expat-win32bin\Source\win32\bin\Release
 2. Download and unzip http://xmlsoft.org/sources/win32/iconv-1.9.2.win32.zip into your build directory
 3. Download and install Lua for Windows () into c:\Lua (warning, not the default install directory)
-4. Open SileLectionary.sln and build
+4. Open SileLectionary.sln, change to "Release", and build
 
 
 Appendix - Build Dependencies

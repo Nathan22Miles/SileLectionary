@@ -48,7 +48,7 @@
     <LinkIncremental>false</LinkIncremental>
     <OutDir>$(SolutionDir)\jehbvc\jehbvc\out\$(Configuration)\</OutDir>
     <IntDir>$(SolutionDir)\jehbvc\jehbvc\$(Configuration)\</IntDir>
-    <IncludePath>C:\MinGW\msys\1.0\home\SileLectionary\freetype\include;C:\Lua\5.1\include;$(IncludePath)</IncludePath>
+    <IncludePath>$(SolutionDir)freetype\include;C:\Lua\5.1\include;$(IncludePath)</IncludePath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>

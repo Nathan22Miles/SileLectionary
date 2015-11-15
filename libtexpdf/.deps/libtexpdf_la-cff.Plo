@@ -1,0 +1,56 @@
+libtexpdf_la-cff.lo: cff.c config.h c:\mingw\include\stdio.h \
+ c:\mingw\include\_mingw.h \
+ c:\mingw\lib\gcc\mingw32\4.8.1\include\stddef.h \
+ c:\mingw\lib\gcc\mingw32\4.8.1\include\stdarg.h \
+ c:\mingw\include\sys\types.h c:\mingw\include\string.h mem.h \
+ c:\mingw\include\stdlib.h error.h c:\mingw\include\assert.h mfileio.h \
+ numbers.h c:\mingw\include\math.h c:\mingw\include\inttypes.h \
+ c:\mingw\lib\gcc\mingw32\4.8.1\include\stdint.h \
+ c:\mingw\include\stdint.h cff_limits.h c:\mingw\include\limits.h \
+ cff_types.h cff_stdstr.h cff_dict.h cff.h
+
+config.h:
+
+c:\mingw\include\stdio.h:
+
+c:\mingw\include\_mingw.h:
+
+c:\mingw\lib\gcc\mingw32\4.8.1\include\stddef.h:
+
+c:\mingw\lib\gcc\mingw32\4.8.1\include\stdarg.h:
+
+c:\mingw\include\sys\types.h:
+
+c:\mingw\include\string.h:
+
+mem.h:
+
+c:\mingw\include\stdlib.h:
+
+error.h:
+
+c:\mingw\include\assert.h:
+
+mfileio.h:
+
+numbers.h:
+
+c:\mingw\include\math.h:
+
+c:\mingw\include\inttypes.h:
+
+c:\mingw\lib\gcc\mingw32\4.8.1\include\stdint.h:
+
+c:\mingw\include\stdint.h:
+
+cff_limits.h:
+
+c:\mingw\include\limits.h:
+
+cff_types.h:
+
+cff_stdstr.h:
+
+cff_dict.h:
+
+cff.h:

@@ -1,0 +1,8 @@
+/libpng-1.6.18
+/freetype/objs
+/harfbuzz/objs
+/FontConfig/release
+*.o
+/Sile/IronPython
+/jehbvc/jehbvc/Debug
+/jehbvc/jehbvc/Release

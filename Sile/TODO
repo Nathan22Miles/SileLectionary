@@ -1,0 +1,47 @@
+--- fix blob generator to have correct paths
+--- cannot load default config file
+--- connect to Paratext
+--- write xxa.bat, etc
+--- pause after typesetting to view messages
+--- No patterns for language en
+--- compile release version of fontconfig
+--- Add modules
+--- remove extra iron python stuff
+--- allow for alternate project name
+--- remove aruamu from dramas, e.g. \c 92
+--- make sure all SAM sections have references
+
+* spell check tok pisin files
+
+   check for non empty \b lines
+   consistently mark up dramas (across years)
+   make sure no \rem's have publishable tok pisin data
+   read thru dramas
+
+* test tok pisin files
+
+
+* Write instructions
+** missing styles
+** change project name
+** front matter and table of contents
+
+* Add Lua install
+
+* remove misc leftover files
+** don't create temp files in main directory
+
+* check in as lectionary_win
+
+---------------------
+
+* use vc to build all supporting files
+
+** use .def to avoid modifying .c files
+
+* build, check in non-dev version
+
+??? create NT only files
+
+??? support \rem sub 
+

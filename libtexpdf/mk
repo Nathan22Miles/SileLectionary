@@ -1,0 +1,4 @@
+
+gcc -I"/c/Program Files/lua/5.1/include" -O2 -c -o justenoughlibtexpdf.o justenoughlibtexpdf.c
+gcc -O -shared -o justenoughlibtexpdf.dll *.o -L"/c/Program Files/lua/5.1/lib" -llua51 libpng.a libz.a
+# cp justenoughlibtexpdf.dll "/c/Program Files/LuaRocks/systree/lib/lua/5.1"

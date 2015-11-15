@@ -1,0 +1,347 @@
+libtexpdf_la-dpxfile.lo: dpxfile.c c:\mingw\include\windows.h \
+ c:\mingw\lib\gcc\mingw32\4.8.1\include\stdarg.h \
+ c:\mingw\include\windef.h c:\mingw\include\winnt.h \
+ c:\mingw\include\winerror.h c:\mingw\include\string.h \
+ c:\mingw\include\_mingw.h \
+ c:\mingw\lib\gcc\mingw32\4.8.1\include\stddef.h \
+ c:\mingw\include\basetsd.h c:\mingw\include\pshpack4.h \
+ c:\mingw\include\poppack.h c:\mingw\include\wincon.h \
+ c:\mingw\include\winbase.h c:\mingw\include\wingdi.h \
+ c:\mingw\include\winuser.h c:\mingw\include\winnls.h \
+ c:\mingw\include\winver.h c:\mingw\include\winnetwk.h \
+ c:\mingw\include\winreg.h c:\mingw\include\winsvc.h \
+ c:\mingw\include\cderr.h c:\mingw\include\dde.h c:\mingw\include\ddeml.h \
+ c:\mingw\include\dlgs.h c:\mingw\include\imm.h \
+ c:\mingw\include\lzexpand.h c:\mingw\include\mmsystem.h \
+ c:\mingw\include\nb30.h c:\mingw\include\rpc.h c:\mingw\include\rpcdce.h \
+ c:\mingw\include\basetyps.h c:\mingw\include\rpcdcep.h \
+ c:\mingw\include\rpcnsi.h c:\mingw\include\rpcnterr.h \
+ c:\mingw\include\shellapi.h c:\mingw\include\pshpack2.h \
+ c:\mingw\include\winperf.h c:\mingw\include\commdlg.h \
+ c:\mingw\include\winspool.h c:\mingw\include\winsock2.h \
+ c:\mingw\include\ole2.h c:\mingw\include\objbase.h \
+ c:\mingw\include\rpcndr.h c:\mingw\include\rpcnsip.h \
+ c:\mingw\include\objfwd.h c:\mingw\include\stdlib.h \
+ c:\mingw\include\wtypes.h c:\mingw\include\unknwn.h \
+ c:\mingw\include\objidl.h c:\mingw\include\cguid.h \
+ c:\mingw\include\olectlid.h c:\mingw\include\oleauto.h \
+ c:\mingw\include\oaidl.h c:\mingw\include\oleidl.h \
+ c:\mingw\include\wchar.h c:\mingw\include\wctype.h \
+ c:\mingw\include\sys\types.h \
+ c:\mingw\lib\gcc\mingw32\4.8.1\include\stdint.h \
+ c:\mingw\include\stdint.h ../libtexpdf/libtexpdf.h ../libtexpdf/config.h \
+ ../libtexpdf/agl.h ../libtexpdf/bmpimage.h ../libtexpdf/mfileio.h \
+ c:\mingw\include\stdio.h ../libtexpdf/numbers.h c:\mingw\include\math.h \
+ c:\mingw\include\inttypes.h ../libtexpdf/pdfximage.h \
+ ../libtexpdf/pdfdev.h ../libtexpdf/pdfobj.h ../libtexpdf/pdfcolor.h \
+ ../libtexpdf/pdftypes.h ../libtexpdf/dpxutil.h c:\mingw\include\ctype.h \
+ ../libtexpdf/pdfdoc.h ../libtexpdf/fontmap.h ../libtexpdf/cff.h \
+ ../libtexpdf/cff_types.h ../libtexpdf/cff_dict.h \
+ ../libtexpdf/cff_limits.h c:\mingw\include\limits.h ../libtexpdf/cid.h \
+ ../libtexpdf/type0.h ../libtexpdf/cid_p.h ../libtexpdf/cidtype0.h \
+ ../libtexpdf/cidtype2.h ../libtexpdf/cmap.h ../libtexpdf/cmap_p.h \
+ ../libtexpdf/cmap_read.h ../libtexpdf/cmap_write.h \
+ ../libtexpdf/cs_type2.h ../libtexpdf/dpxcrypt.h ../libtexpdf/dpxfile.h \
+ ../libtexpdf/epdf.h ../libtexpdf/error.h c:\mingw\include\assert.h \
+ ../libtexpdf/jp2image.h ../libtexpdf/jpegimage.h ../libtexpdf/mem.h \
+ ../libtexpdf/otl_conf.h ../libtexpdf/otl_opt.h ../libtexpdf/pdfdraw.h \
+ ../libtexpdf/pdfencoding.h ../libtexpdf/pdfencrypt.h \
+ ../libtexpdf/pdffont.h ../libtexpdf/pdflimits.h ../libtexpdf/pdfnames.h \
+ ../libtexpdf/pdfparse.h ../libtexpdf/pdfresource.h ../libtexpdf/pkfont.h \
+ ../libtexpdf/pngimage.h ../libtexpdf/pst.h ../libtexpdf/pst_obj.h \
+ ../libtexpdf/sfnt.h ../libtexpdf/subfont.h ../libtexpdf/t1_char.h \
+ ../libtexpdf/t1_load.h ../libtexpdf/tfm.h ../libtexpdf/truetype.h \
+ ../libtexpdf/tt_aux.h ../libtexpdf/tt_cmap.h ../libtexpdf/tt_glyf.h \
+ ../libtexpdf/tt_gsub.h ../libtexpdf/tt_post.h ../libtexpdf/tt_table.h \
+ ../libtexpdf/type1.h ../libtexpdf/type1c.h ../libtexpdf/unicode.h \
+ c:\mingw\include\time.h c:\mingw\include\unistd.h c:\mingw\include\io.h \
+ c:\mingw\include\process.h c:\mingw\include\getopt.h \
+ c:\mingw\include\parts\time.h c:\mingw\include\sys\stat.h \
+ c:\mingw\include\dirent.h error.h mem.h dpxutil.h mfileio.h dpxfile.h \
+ dpxcrypt.h
+
+c:\mingw\include\windows.h:
+
+c:\mingw\lib\gcc\mingw32\4.8.1\include\stdarg.h:
+
+c:\mingw\include\windef.h:
+
+c:\mingw\include\winnt.h:
+
+c:\mingw\include\winerror.h:
+
+c:\mingw\include\string.h:
+
+c:\mingw\include\_mingw.h:
+
+c:\mingw\lib\gcc\mingw32\4.8.1\include\stddef.h:
+
+c:\mingw\include\basetsd.h:
+
+c:\mingw\include\pshpack4.h:
+
+c:\mingw\include\poppack.h:
+
+c:\mingw\include\wincon.h:
+
+c:\mingw\include\winbase.h:
+
+c:\mingw\include\wingdi.h:
+
+c:\mingw\include\winuser.h:
+
+c:\mingw\include\winnls.h:
+
+c:\mingw\include\winver.h:
+
+c:\mingw\include\winnetwk.h:
+
+c:\mingw\include\winreg.h:
+
+c:\mingw\include\winsvc.h:
+
+c:\mingw\include\cderr.h:
+
+c:\mingw\include\dde.h:
+
+c:\mingw\include\ddeml.h:
+
+c:\mingw\include\dlgs.h:
+
+c:\mingw\include\imm.h:
+
+c:\mingw\include\lzexpand.h:
+
+c:\mingw\include\mmsystem.h:
+
+c:\mingw\include\nb30.h:
+
+c:\mingw\include\rpc.h:
+
+c:\mingw\include\rpcdce.h:
+
+c:\mingw\include\basetyps.h:
+
+c:\mingw\include\rpcdcep.h:
+
+c:\mingw\include\rpcnsi.h:
+
+c:\mingw\include\rpcnterr.h:
+
+c:\mingw\include\shellapi.h:
+
+c:\mingw\include\pshpack2.h:
+
+c:\mingw\include\winperf.h:
+
+c:\mingw\include\commdlg.h:
+
+c:\mingw\include\winspool.h:
+
+c:\mingw\include\winsock2.h:
+
+c:\mingw\include\ole2.h:
+
+c:\mingw\include\objbase.h:
+
+c:\mingw\include\rpcndr.h:
+
+c:\mingw\include\rpcnsip.h:
+
+c:\mingw\include\objfwd.h:
+
+c:\mingw\include\stdlib.h:
+
+c:\mingw\include\wtypes.h:
+
+c:\mingw\include\unknwn.h:
+
+c:\mingw\include\objidl.h:
+
+c:\mingw\include\cguid.h:
+
+c:\mingw\include\olectlid.h:
+
+c:\mingw\include\oleauto.h:
+
+c:\mingw\include\oaidl.h:
+
+c:\mingw\include\oleidl.h:
+
+c:\mingw\include\wchar.h:
+
+c:\mingw\include\wctype.h:
+
+c:\mingw\include\sys\types.h:
+
+c:\mingw\lib\gcc\mingw32\4.8.1\include\stdint.h:
+
+c:\mingw\include\stdint.h:
+
+../libtexpdf/libtexpdf.h:
+
+../libtexpdf/config.h:
+
+../libtexpdf/agl.h:
+
+../libtexpdf/bmpimage.h:
+
+../libtexpdf/mfileio.h:
+
+c:\mingw\include\stdio.h:
+
+../libtexpdf/numbers.h:
+
+c:\mingw\include\math.h:
+
+c:\mingw\include\inttypes.h:
+
+../libtexpdf/pdfximage.h:
+
+../libtexpdf/pdfdev.h:
+
+../libtexpdf/pdfobj.h:
+
+../libtexpdf/pdfcolor.h:
+
+../libtexpdf/pdftypes.h:
+
+../libtexpdf/dpxutil.h:
+
+c:\mingw\include\ctype.h:
+
+../libtexpdf/pdfdoc.h:
+
+../libtexpdf/fontmap.h:
+
+../libtexpdf/cff.h:
+
+../libtexpdf/cff_types.h:
+
+../libtexpdf/cff_dict.h:
+
+../libtexpdf/cff_limits.h:
+
+c:\mingw\include\limits.h:
+
+../libtexpdf/cid.h:
+
+../libtexpdf/type0.h:
+
+../libtexpdf/cid_p.h:
+
+../libtexpdf/cidtype0.h:
+
+../libtexpdf/cidtype2.h:
+
+../libtexpdf/cmap.h:
+
+../libtexpdf/cmap_p.h:
+
+../libtexpdf/cmap_read.h:
+
+../libtexpdf/cmap_write.h:
+
+../libtexpdf/cs_type2.h:
+
+../libtexpdf/dpxcrypt.h:
+
+../libtexpdf/dpxfile.h:
+
+../libtexpdf/epdf.h:
+
+../libtexpdf/error.h:
+
+c:\mingw\include\assert.h:
+
+../libtexpdf/jp2image.h:
+
+../libtexpdf/jpegimage.h:
+
+../libtexpdf/mem.h:
+
+../libtexpdf/otl_conf.h:
+
+../libtexpdf/otl_opt.h:
+
+../libtexpdf/pdfdraw.h:
+
+../libtexpdf/pdfencoding.h:
+
+../libtexpdf/pdfencrypt.h:
+
+../libtexpdf/pdffont.h:
+
+../libtexpdf/pdflimits.h:
+
+../libtexpdf/pdfnames.h:
+
+../libtexpdf/pdfparse.h:
+
+../libtexpdf/pdfresource.h:
+
+../libtexpdf/pkfont.h:
+
+../libtexpdf/pngimage.h:
+
+../libtexpdf/pst.h:
+
+../libtexpdf/pst_obj.h:
+
+../libtexpdf/sfnt.h:
+
+../libtexpdf/subfont.h:
+
+../libtexpdf/t1_char.h:
+
+../libtexpdf/t1_load.h:
+
+../libtexpdf/tfm.h:
+
+../libtexpdf/truetype.h:
+
+../libtexpdf/tt_aux.h:
+
+../libtexpdf/tt_cmap.h:
+
+../libtexpdf/tt_glyf.h:
+
+../libtexpdf/tt_gsub.h:
+
+../libtexpdf/tt_post.h:
+
+../libtexpdf/tt_table.h:
+
+../libtexpdf/type1.h:
+
+../libtexpdf/type1c.h:
+
+../libtexpdf/unicode.h:
+
+c:\mingw\include\time.h:
+
+c:\mingw\include\unistd.h:
+
+c:\mingw\include\io.h:
+
+c:\mingw\include\process.h:
+
+c:\mingw\include\getopt.h:
+
+c:\mingw\include\parts\time.h:
+
+c:\mingw\include\sys\stat.h:
+
+c:\mingw\include\dirent.h:
+
+error.h:
+
+mem.h:
+
+dpxutil.h:
+
+mfileio.h:
+
+dpxfile.h:
+
+dpxcrypt.h:
