@@ -1,0 +1,1 @@
+ luac -o sile.out *.lua classes/*.lua core/*.lua lua-libraries/*.lua lua-libraries/imagesize/*.lua lua-libraries/imagesize/format/*.lua lua-libraries/repl/*.lua lua-libraries/repl/plugins/*.lua lua-libraries/std/*.lua lua-libraries/std/debug_init/*.lua packages/*.lua

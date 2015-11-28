@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sile class="lectionary" papersize="a4">
+<include src="lectionary/styles.sil" />
+<s1>Test</s1>
+<s2>Test2</s2>
+</sile>

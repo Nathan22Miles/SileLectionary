@@ -1,0 +1,16 @@
+﻿<sile class="lectionary" papersize="a4">
+<include src="lectionary/styles.sil" />
+<vfill/>
+<par/>
+TAIM BILONG ATVEN
+<par/>
+NA KRISMAS
+<par/>
+<vfill/>
+<eject/>
+<h>test</h>
+page 1
+<par/>
+<eject/>
+page 2
+</sile>

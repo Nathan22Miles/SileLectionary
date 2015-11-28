@@ -1,0 +1,8 @@
+in SAM, keep reading and bekim together
+
+two col
+   * big, push at least 7 lines to next page
+   * if we can't fit 4 vertical lines, push whole section to next page
+   * ??? ignore penalties?
+
+don't break before q2,q3,q4

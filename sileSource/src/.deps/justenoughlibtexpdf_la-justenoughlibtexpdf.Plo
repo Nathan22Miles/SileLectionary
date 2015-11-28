@@ -1,0 +1,386 @@
+justenoughlibtexpdf_la-justenoughlibtexpdf.lo: justenoughlibtexpdf.c \
+ /usr/include/stdc-predef.h /usr/include/stdlib.h /usr/include/features.h \
+ /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+ /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+ /usr/lib/gcc/x86_64-linux-gnu/4.8/include/stddef.h \
+ /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+ /usr/include/x86_64-linux-gnu/bits/waitstatus.h /usr/include/endian.h \
+ /usr/include/x86_64-linux-gnu/bits/endian.h \
+ /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+ /usr/include/x86_64-linux-gnu/bits/types.h \
+ /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+ /usr/include/x86_64-linux-gnu/bits/byteswap-16.h \
+ /usr/include/x86_64-linux-gnu/sys/types.h /usr/include/time.h \
+ /usr/include/x86_64-linux-gnu/sys/select.h \
+ /usr/include/x86_64-linux-gnu/bits/select.h \
+ /usr/include/x86_64-linux-gnu/bits/sigset.h \
+ /usr/include/x86_64-linux-gnu/bits/time.h \
+ /usr/include/x86_64-linux-gnu/bits/select2.h \
+ /usr/include/x86_64-linux-gnu/sys/sysmacros.h \
+ /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h /usr/include/alloca.h \
+ /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+ /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+ /usr/include/x86_64-linux-gnu/bits/stdlib.h /usr/include/stdio.h \
+ /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/lib/gcc/x86_64-linux-gnu/4.8/include/stdarg.h \
+ /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
+ /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
+ /usr/include/x86_64-linux-gnu/bits/stdio.h \
+ /usr/include/x86_64-linux-gnu/bits/stdio2.h /usr/include/assert.h \
+ ../libtexpdf/libtexpdf.h /usr/include/string.h /usr/include/xlocale.h \
+ /usr/include/x86_64-linux-gnu/bits/string.h \
+ /usr/include/x86_64-linux-gnu/bits/string2.h \
+ /usr/include/x86_64-linux-gnu/bits/string3.h \
+ /usr/lib/gcc/x86_64-linux-gnu/4.8/include/stdint.h /usr/include/stdint.h \
+ /usr/include/x86_64-linux-gnu/bits/wchar.h ../libtexpdf/agl.h \
+ ../libtexpdf/bmpimage.h ../libtexpdf/mfileio.h ../libtexpdf/numbers.h \
+ /usr/include/math.h /usr/include/x86_64-linux-gnu/bits/huge_val.h \
+ /usr/include/x86_64-linux-gnu/bits/huge_valf.h \
+ /usr/include/x86_64-linux-gnu/bits/huge_vall.h \
+ /usr/include/x86_64-linux-gnu/bits/inf.h \
+ /usr/include/x86_64-linux-gnu/bits/nan.h \
+ /usr/include/x86_64-linux-gnu/bits/mathdef.h \
+ /usr/include/x86_64-linux-gnu/bits/mathcalls.h \
+ /usr/include/x86_64-linux-gnu/bits/mathinline.h /usr/include/inttypes.h \
+ ../libtexpdf/pdfximage.h ../libtexpdf/pdfdev.h ../libtexpdf/pdfobj.h \
+ ../libtexpdf/pdfcolor.h ../libtexpdf/pdftypes.h ../libtexpdf/dpxutil.h \
+ /usr/include/ctype.h ../libtexpdf/pdfdoc.h ../libtexpdf/fontmap.h \
+ /usr/include/freetype2/ft2build.h \
+ /usr/include/freetype2/config/ftheader.h \
+ /usr/include/freetype2/freetype.h \
+ /usr/include/freetype2/config/ftconfig.h \
+ /usr/include/freetype2/config/ftoption.h \
+ /usr/include/freetype2/config/ftstdlib.h \
+ /usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed/syslimits.h \
+ /usr/include/limits.h /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+ /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+ /usr/include/linux/limits.h \
+ /usr/include/x86_64-linux-gnu/bits/posix2_lim.h /usr/include/setjmp.h \
+ /usr/include/x86_64-linux-gnu/bits/setjmp.h \
+ /usr/include/x86_64-linux-gnu/bits/setjmp2.h \
+ /usr/include/freetype2/fttypes.h /usr/include/freetype2/ftsystem.h \
+ /usr/include/freetype2/ftimage.h /usr/include/freetype2/fterrors.h \
+ /usr/include/freetype2/ftmoderr.h /usr/include/freetype2/fterrdef.h \
+ ../libtexpdf/cff.h ../libtexpdf/cff_types.h ../libtexpdf/cff_dict.h \
+ ../libtexpdf/cff_limits.h ../libtexpdf/cid.h ../libtexpdf/type0.h \
+ ../libtexpdf/cid_p.h ../libtexpdf/cidtype0.h ../libtexpdf/cidtype2.h \
+ ../libtexpdf/cmap.h ../libtexpdf/cmap_p.h ../libtexpdf/cmap_read.h \
+ ../libtexpdf/cmap_write.h ../libtexpdf/cs_type2.h \
+ ../libtexpdf/dpxcrypt.h ../libtexpdf/dpxfile.h ../libtexpdf/epdf.h \
+ ../libtexpdf/error.h ../libtexpdf/jp2image.h ../libtexpdf/jpegimage.h \
+ ../libtexpdf/mem.h ../libtexpdf/otl_conf.h ../libtexpdf/otl_opt.h \
+ ../libtexpdf/pdfdraw.h ../libtexpdf/pdfencoding.h \
+ ../libtexpdf/pdfencrypt.h ../libtexpdf/pdffont.h \
+ ../libtexpdf/pdflimits.h ../libtexpdf/pdfnames.h ../libtexpdf/pdfparse.h \
+ ../libtexpdf/pdfresource.h ../libtexpdf/pkfont.h ../libtexpdf/pngimage.h \
+ ../libtexpdf/pst.h ../libtexpdf/pst_obj.h ../libtexpdf/sfnt.h \
+ ../libtexpdf/subfont.h ../libtexpdf/t1_char.h ../libtexpdf/t1_load.h \
+ ../libtexpdf/tfm.h ../libtexpdf/truetype.h ../libtexpdf/tt_aux.h \
+ ../libtexpdf/tt_cmap.h ../libtexpdf/tt_glyf.h ../libtexpdf/tt_gsub.h \
+ ../libtexpdf/tt_post.h ../libtexpdf/tt_table.h ../libtexpdf/type1.h \
+ ../libtexpdf/type1c.h ../libtexpdf/unicode.h /usr/include/lua5.1/lua.h \
+ /usr/include/lua5.1/luaconf.h \
+ /usr/include/x86_64-linux-gnu/lua5.1-deb-multiarch.h \
+ /usr/include/lua5.1/lauxlib.h /usr/include/lua5.1/lua.h \
+ /usr/include/lua5.1/lualib.h
+
+/usr/include/stdc-predef.h:
+
+/usr/include/stdlib.h:
+
+/usr/include/features.h:
+
+/usr/include/x86_64-linux-gnu/sys/cdefs.h:
+
+/usr/include/x86_64-linux-gnu/bits/wordsize.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/4.8/include/stddef.h:
+
+/usr/include/x86_64-linux-gnu/bits/waitflags.h:
+
+/usr/include/x86_64-linux-gnu/bits/waitstatus.h:
+
+/usr/include/endian.h:
+
+/usr/include/x86_64-linux-gnu/bits/endian.h:
+
+/usr/include/x86_64-linux-gnu/bits/byteswap.h:
+
+/usr/include/x86_64-linux-gnu/bits/types.h:
+
+/usr/include/x86_64-linux-gnu/bits/typesizes.h:
+
+/usr/include/x86_64-linux-gnu/bits/byteswap-16.h:
+
+/usr/include/x86_64-linux-gnu/sys/types.h:
+
+/usr/include/time.h:
+
+/usr/include/x86_64-linux-gnu/sys/select.h:
+
+/usr/include/x86_64-linux-gnu/bits/select.h:
+
+/usr/include/x86_64-linux-gnu/bits/sigset.h:
+
+/usr/include/x86_64-linux-gnu/bits/time.h:
+
+/usr/include/x86_64-linux-gnu/bits/select2.h:
+
+/usr/include/x86_64-linux-gnu/sys/sysmacros.h:
+
+/usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:
+
+/usr/include/alloca.h:
+
+/usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h:
+
+/usr/include/x86_64-linux-gnu/bits/stdlib-float.h:
+
+/usr/include/x86_64-linux-gnu/bits/stdlib.h:
+
+/usr/include/stdio.h:
+
+/usr/include/libio.h:
+
+/usr/include/_G_config.h:
+
+/usr/include/wchar.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/4.8/include/stdarg.h:
+
+/usr/include/x86_64-linux-gnu/bits/stdio_lim.h:
+
+/usr/include/x86_64-linux-gnu/bits/sys_errlist.h:
+
+/usr/include/x86_64-linux-gnu/bits/stdio.h:
+
+/usr/include/x86_64-linux-gnu/bits/stdio2.h:
+
+/usr/include/assert.h:
+
+../libtexpdf/libtexpdf.h:
+
+/usr/include/string.h:
+
+/usr/include/xlocale.h:
+
+/usr/include/x86_64-linux-gnu/bits/string.h:
+
+/usr/include/x86_64-linux-gnu/bits/string2.h:
+
+/usr/include/x86_64-linux-gnu/bits/string3.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/4.8/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/x86_64-linux-gnu/bits/wchar.h:
+
+../libtexpdf/agl.h:
+
+../libtexpdf/bmpimage.h:
+
+../libtexpdf/mfileio.h:
+
+../libtexpdf/numbers.h:
+
+/usr/include/math.h:
+
+/usr/include/x86_64-linux-gnu/bits/huge_val.h:
+
+/usr/include/x86_64-linux-gnu/bits/huge_valf.h:
+
+/usr/include/x86_64-linux-gnu/bits/huge_vall.h:
+
+/usr/include/x86_64-linux-gnu/bits/inf.h:
+
+/usr/include/x86_64-linux-gnu/bits/nan.h:
+
+/usr/include/x86_64-linux-gnu/bits/mathdef.h:
+
+/usr/include/x86_64-linux-gnu/bits/mathcalls.h:
+
+/usr/include/x86_64-linux-gnu/bits/mathinline.h:
+
+/usr/include/inttypes.h:
+
+../libtexpdf/pdfximage.h:
+
+../libtexpdf/pdfdev.h:
+
+../libtexpdf/pdfobj.h:
+
+../libtexpdf/pdfcolor.h:
+
+../libtexpdf/pdftypes.h:
+
+../libtexpdf/dpxutil.h:
+
+/usr/include/ctype.h:
+
+../libtexpdf/pdfdoc.h:
+
+../libtexpdf/fontmap.h:
+
+/usr/include/freetype2/ft2build.h:
+
+/usr/include/freetype2/config/ftheader.h:
+
+/usr/include/freetype2/freetype.h:
+
+/usr/include/freetype2/config/ftconfig.h:
+
+/usr/include/freetype2/config/ftoption.h:
+
+/usr/include/freetype2/config/ftstdlib.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed/limits.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed/syslimits.h:
+
+/usr/include/limits.h:
+
+/usr/include/x86_64-linux-gnu/bits/posix1_lim.h:
+
+/usr/include/x86_64-linux-gnu/bits/local_lim.h:
+
+/usr/include/linux/limits.h:
+
+/usr/include/x86_64-linux-gnu/bits/posix2_lim.h:
+
+/usr/include/setjmp.h:
+
+/usr/include/x86_64-linux-gnu/bits/setjmp.h:
+
+/usr/include/x86_64-linux-gnu/bits/setjmp2.h:
+
+/usr/include/freetype2/fttypes.h:
+
+/usr/include/freetype2/ftsystem.h:
+
+/usr/include/freetype2/ftimage.h:
+
+/usr/include/freetype2/fterrors.h:
+
+/usr/include/freetype2/ftmoderr.h:
+
+/usr/include/freetype2/fterrdef.h:
+
+../libtexpdf/cff.h:
+
+../libtexpdf/cff_types.h:
+
+../libtexpdf/cff_dict.h:
+
+../libtexpdf/cff_limits.h:
+
+../libtexpdf/cid.h:
+
+../libtexpdf/type0.h:
+
+../libtexpdf/cid_p.h:
+
+../libtexpdf/cidtype0.h:
+
+../libtexpdf/cidtype2.h:
+
+../libtexpdf/cmap.h:
+
+../libtexpdf/cmap_p.h:
+
+../libtexpdf/cmap_read.h:
+
+../libtexpdf/cmap_write.h:
+
+../libtexpdf/cs_type2.h:
+
+../libtexpdf/dpxcrypt.h:
+
+../libtexpdf/dpxfile.h:
+
+../libtexpdf/epdf.h:
+
+../libtexpdf/error.h:
+
+../libtexpdf/jp2image.h:
+
+../libtexpdf/jpegimage.h:
+
+../libtexpdf/mem.h:
+
+../libtexpdf/otl_conf.h:
+
+../libtexpdf/otl_opt.h:
+
+../libtexpdf/pdfdraw.h:
+
+../libtexpdf/pdfencoding.h:
+
+../libtexpdf/pdfencrypt.h:
+
+../libtexpdf/pdffont.h:
+
+../libtexpdf/pdflimits.h:
+
+../libtexpdf/pdfnames.h:
+
+../libtexpdf/pdfparse.h:
+
+../libtexpdf/pdfresource.h:
+
+../libtexpdf/pkfont.h:
+
+../libtexpdf/pngimage.h:
+
+../libtexpdf/pst.h:
+
+../libtexpdf/pst_obj.h:
+
+../libtexpdf/sfnt.h:
+
+../libtexpdf/subfont.h:
+
+../libtexpdf/t1_char.h:
+
+../libtexpdf/t1_load.h:
+
+../libtexpdf/tfm.h:
+
+../libtexpdf/truetype.h:
+
+../libtexpdf/tt_aux.h:
+
+../libtexpdf/tt_cmap.h:
+
+../libtexpdf/tt_glyf.h:
+
+../libtexpdf/tt_gsub.h:
+
+../libtexpdf/tt_post.h:
+
+../libtexpdf/tt_table.h:
+
+../libtexpdf/type1.h:
+
+../libtexpdf/type1c.h:
+
+../libtexpdf/unicode.h:
+
+/usr/include/lua5.1/lua.h:
+
+/usr/include/lua5.1/luaconf.h:
+
+/usr/include/x86_64-linux-gnu/lua5.1-deb-multiarch.h:
+
+/usr/include/lua5.1/lauxlib.h:
+
+/usr/include/lua5.1/lua.h:
+
+/usr/include/lua5.1/lualib.h:
