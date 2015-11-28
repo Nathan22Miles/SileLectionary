@@ -1,4 +1,4 @@
-\id XXA - Tok Pisin Lectionary Year A
+\rem Tok Pisin Lectionary Year A
 \mt TAIM
 \b
 \mt BILONG
@@ -151,7 +151,6 @@
 \mr Hettok: Jisas Krais stap long lain bilong King Devit na em Pikinini bilong God.
 \s1 Rit i kam long pas Pol i raitim i go long ol Rom.
 \s2 Dispela em i Tok Bilong God.
-\ms
 \ms WELKAMIM GUTNIUS
 \p2 Aleluya, Aleluya.
 \p3 Wanpela virjin bai i karim pikinini man, nem bilong em Emanuel, em God i stap wantaim yumi.
@@ -196,7 +195,6 @@
 \p2 Aleluya, Aleluya.
 \p3 Tumora ol trabel bilong graun bai i pinis. Man bilong kisim bek yumi bai i stap king.
 \p2 Aleluya.
-\ms
 \ms GUTNIUS (Longpela Rit) \rq Mt 1:1-25
 \mr Hettok: Stori long ol lain tumbuna bilong Jisas Krais.
 \s1 Harim Gutnius bilong Jisas Krais Matyu i raitim.
@@ -204,7 +202,6 @@
 \ref MAT 1:1-25
 \s2 Dispela em i Gutnius bilong Jisas Krais.
 \dend
-\ms
 \ms GUTNIUS (Sotpela Rit) \rq Mt 1:18-25
 \mr Hettok: Stori long ol lain tumbuna bilong Jisas Krais.
 \s1 Harim Gutnius bilong Jisas Krais Matyu i raitim.
@@ -214,6 +211,7 @@
 \dend
 \c 6
 \ms1 Pestode bilong Krismas
+\sp S:
 \ms2 Misa long Nait (Desemba 24)
 \ms 1. RIT \rq Ais 9:2-7
 \mr Hettok: Wanpela pikinini man i kamap pinis long yumi, em wanpela pikinini God i givim long yumi.
@@ -332,7 +330,6 @@
 \ref JHN 1:1-18
 \s2 Dispela em i Gutnius bilong Jisas Krais.
 \dend
-\ms
 \ms GUTNIUS (Sotpela Rit) \rq Jo 1:1-5, 9-14
 \mr Hettok: Tok em i bin kamap man, na em i kam i stap namel long mipela. Mipela i lukim pinis bikpela namba na strong bilong em.
 \s1 Harim Gutnius bilong Jisas Krais Jon i raitim.
@@ -668,7 +665,6 @@
 \p2 Glori na biknem long yu, Bikpela Jisas Krais.
 \p3 Bikpela, yu kisim bek olgeta manmeri bilong graun, givim dispela wara i gat laip long mi, na bihain nek bilong mi i no ken drai moa.
 \p2 Glori na biknem long yu, Bikpela Jisas Krais.
-\ms
 \ms GUTNIUS (Longpela Rit) \rq Jo 4:5-42
 \mr Hettok: Dispela wara mi laik givim, em bai i givim laip i stap gut oltaim oltaim.
 \s1 Harim Gutnius bilong Jisas Krais Jon i raitim.
@@ -676,7 +672,6 @@
 \ref JHN 4:5-42
 \s2 Dispela em i Gutnius bilong Jisas Krais.
 \dend
-\ms
 \ms GUTNIUS (Sotpela Rit) \rq Jo 4:5-15, 19-26, 39-42
 \mr Hettok: Dispela wara mi laik givim, em bai i givim laip i stap gut oltaim oltaim.
 \s1 Harim Gutnius bilong Jisas Krais Jon i raitim.
@@ -722,7 +717,6 @@
 \p2 Glori na biknem long yu, Bikpela Jisas Krais.
 \p3 Bikpela i tok olsem, "Mi yet mi lait bilong graun. Ol manmeri i bihainim mi, ol bai i gat lait bilong laip."
 \p2 Glori na biknem long yu, Bikpela Jisas Krais.
-\ms
 \ms GUTNIUS (Longpela Rit) \rq Jo 9:1-41
 \mr Hettok: Man aipas i go na i waswas. Na taim em i kam bek, em inap lukim gut ol samting.
 \s1 Harim Gutnius bilong Jisas Krais Jon i raitim.
@@ -730,7 +724,6 @@
 \ref JHN 9:1-41
 \s2 Dispela em i Gutnius bilong Jisas Krais.
 \dend
-\ms
 \ms GUTNIUS (Sotpela Rit) \rq Jo 9:1, 6-9, 13-17, 34-38
 \mr Hettok: Man aipas i go na i waswas. Na taim em i kam bek, em inap lukim gut ol samting.
 \s1 Harim Gutnius bilong Jisas Krais Jon i raitim.
@@ -776,7 +769,6 @@
 \p2 Glori na biknem long yu, Bikpela Jisas Krais.
 \p3 Kirap bek, em mi yet. Na laip, em mi yet. Olgeta manmeri i bilip long mi, ol i stap laip oltaim.
 \p2 Glori na biknem long yu, Bikpela Jisas Krais.
-\ms
 \ms GUTNIUS (Longpela Rit) \rq Jo 11:1-45
 \mr Hettok: Kirap bek, em mi yet. Na laip, em mi yet.
 \s1 Harim Gutnius bilong Jisas Krais Jon i raitim.
@@ -784,7 +776,6 @@
 \ref JHN 11:1-45
 \s2 Dispela em i Gutnius bilong Jisas Krais.
 \dend
-\ms
 \ms GUTNIUS (Sotpela Rit) \rq Jo 11:3-7, 17, 20-27, 33-45
 \mr Hettok: Kirap bek, em mi yet. Na laip, em mi yet.
 \s1 Harim Gutnius bilong Jisas Krais Jon i raitim.
@@ -836,7 +827,6 @@
 \p2 (S = Stori; J = Jisas; W = wan wan man o meri; O = Olgeta)
 \s1 Stori bilong Jisas Krais i karim pen na i dai, Matyu i raitim.
 \sp S: Long dispela taim wanpela bilong ol 12-pela disaipel, nem bilong en Judas Iskariot, em i go long ol bikpris. Na em i askim ol olsem,
-\sp
 \sp W: "Sapos mi givim Jisas long han bilong yupela, yupela bai i givim wanem samting long mi?"
 \sp S: Orait ol i givim 30 mani silva long em. Na Judas i stat long painim rot bilong givim Jisas long han bilong ol.
 \b Long namba wan de bilong ol Bikpela De Bilong Bret I No Gat Yis,
@@ -1110,7 +1100,7 @@
 \rem Ol birua bilong mi i semim mi. Ol wantok i givim baksait long mi. Ol pren i pret long mi.
 \s1 Bekim: Papa, mi putim spirit bilong mi long han bilong yu.
 \ref PSA 31:12
-\rem Taim ol i lukim mi long rot, ol i ranawe long mi. Mi olsem wanpela i dai pinis. Olgeta manmeri i Ius tingting long mi. Mi olsem sospen graun i bruk na ol i tromoim pinis.
+\rem Taim ol i lukim mi long rot, ol i ranawe long mi. Mi olsem wanpela i dai pinis. Olgeta manmeri i lus tingting long mi. Mi olsem sospen graun i bruk na ol i tromoim pinis.
 \s1 Bekim: Papa, mi putim spirit bilong mi long han bilong yu.
 \ref PSA 31:14-15
 \rem Tasol, Bikpela, mi bilip long yu wanpela tasol. Mi tok olsem, "Yu God bilong mi." Olgeta de bilong mi i stap long han bilong yu. Kisim bek mi long han bilong ol birua bilong mi.
@@ -1145,7 +1135,7 @@
 \sp O: "Jisas bilong Nasaret."
 \sp S: Na Jisas i bekim tok olsem,
 \sp J: "Mi tokim yupela pinis, em mi tasol. Na sapos yupela i painim mi, orait larim ol dispela man i go."
-\sp S: Long dispela pasin em inapim dispela tok em i bin mekim bipo, "ol dispel a man yu bin givim mi, i no gat wanpela bilong ol i Ius." Saimon Pita i bin karim wanpela bainat i kam, na em i pulim bainat na i paitim wokboi bilong hetpris, na bainat i katim yau long han sut bilong dispel a wokboi na yau i pundaun. Nem bilong dispela wokboi em Malkus. Na Jisas i tokim Pita,
+\sp S: Long dispela pasin em inapim dispela tok em i bin mekim bipo, "ol dispel a man yu bin givim mi, i no gat wanpela bilong ol i lus." Saimon Pita i bin karim wanpela bainat i kam, na em i pulim bainat na i paitim wokboi bilong hetpris, na bainat i katim yau long han sut bilong dispel a wokboi na yau i pundaun. Nem bilong dispela wokboi em Malkus. Na Jisas i tokim Pita,
 \sp J: "Putim bainat i go bek long paus bilong en. Olsem wanem? Yu ting mi no inap dring long dispela kap Papa i bin givim mi?"
 \sp S: Orait na ol lain soldia na namba wan ofisa bilong ol, na ol plisman bilong ol Juda, ol i holimpas Jisas na pasim em long baklain. Na ol i kisim em i go long Anas pastaim. Anas em i tambu bilong Kaiafas. Kaiafas em hetpris long dispela yia na em i dispela man i bin tokim ol Juda olsem, "I gutpela sapos wanpela man tasol i kisim pies bilong ol manmeri na i dai." Saimon Pita wantaim narapela disaipel, tupela i bihainim Jisas i go. Hetpris i save long dispela arapela disaipel, olsem na em i bihainim Jisas i go insait long banis bilong hetpris. Tasol Pita i sanap i stap ausait klostu long dua. Olsem na dispela arapela disaipel, hetpris i save long en, em i go tokim meri i bosim dua, na em i bringim Pita i kam insait. Meri i bosim dua, em i askim Pita olsem,
 \sp W: "Ating yu tu yu disaipel bilong dispela man?"
