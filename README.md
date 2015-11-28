@@ -20,6 +20,9 @@ I am sorry that this is a complicated mess. That is a result of gathering compon
   2. jehbvc.dll (rename as justenoughharfbuzz.dll)
   3. FontConfig.dll
   4. libexpat.dll
+7. We make a single module (lect.lua) which combines all the Lua source for sile
+  1. Go to directory sileSource
+  2. Run amalg.bat. Result is placed in ../sile
 
 
 Appendix - Build Dependencies
