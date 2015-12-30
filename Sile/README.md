@@ -17,7 +17,9 @@ The code has been succesfully used to produce lectionaries for Year A, B, and C 
 # Installing the Lectionary Tool
 
 1. Download ... and unzip the file into its own directory.
-2. Run ... to install Lua for Windows. Lua is the primary language that Sile is written in.
+2. Run LuaFowWindows*.exe to install Lua for Windows. 
+  1. Install it in the directory c:\Lua\5.1 (!!! Not the default directory that the installer suggests) Lua is the primary language that Sile is written in.
+3. Unzip the IronPython.zip file. When you do the "Extract All" remove IronPython from the end the suggested target location (otherwise you will end up with a directory called IronPython containing a single directory also called IronPython )
 
 # Creating a Lectionary Project in Paratext
 

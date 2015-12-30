@@ -6,4 +6,11 @@
 /Sile/IronPython
 /jehbvc/jehbvc/Debug
 /jehbvc/jehbvc/Release
+/jehbvc/jehbvc/out/Release
 *.lo
+*.a
+*.la
+log.txt
+raw.usx
+.cache-3
+*.sdf
