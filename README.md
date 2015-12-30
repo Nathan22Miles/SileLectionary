@@ -1,52 +1,80 @@
-# Build Procedure
+**UNDER CONSTRUCTION**
 
-I am sorry that this is a complicated mess. That is a result of gathering components from a wide variety of sources and not having the time or expertise to put them into a common framework.
+# Typesetting Lectionaries Using SILE
 
-1. Open Expat-win32bin\Source\expat.sln in VS2012, change to "Release", build solution. 
-  * Output is in Expat-win32bin\Source\win32\bin\Release
-2. Download and unzip http://xmlsoft.org/sources/win32/iconv-1.9.2.win32.zip into your build directory
-3. Download and install Lua for Windows () into c:\Lua (warning, not the default install directory)
-4. Open SileLectionary.sln
-  1. change to "Release"
-  2. build
-  3. build (have to do it twice)
-5. Build justenoughlibtexpdf.dll
-  1. Go to libtexpdf using mingw shell
-  2. make
-    1. This will cause .o files to be built and then libtool will fail mysteriously
-  3. ./link_win32
-6. Copy dlls to ..\Sile
-  1. justenoughlibtexpdf.dll
-  2. jehbvc.dll (rename as justenoughharfbuzz.dll)
-  3. FontConfig.dll
-  4. libexpat.dll
-7. We make a single module (lect.lua) which combines all the Lua source for sile
-  1. Go to directory sileSource
-  2. Run amalg.bat. Result is placed in ../sile
+# Introduction
+
+Traditionally Bibles are translated and then typeset in book form with the books in canonical order. In some faith traditions the Biblical text is also read as a predetermined set of readings for each Sunday/service. This form is called a *Lectionary*. For Roman Catholics these lectionary volumes are produced in a three year cycle called Year A, B, and C.
+
+This project is a MS Windows port of the excellent [Sile](http://www.sile-typesetter.org/) typesetting tool. Some additional code has been added to do the lectionary specific typesetting operations.
+
+This tool currently comes with the control files necessary to create Roman Catholic Lectionaries with headings in the Tok Pisin Language used in Papua New Guinea and text taken from a target language translation in [Paratext](http://paratext.org). The same code could be used with other control files to produce lectionaries with headings in other languages or lists of references suitable for other faith communities.
+
+The first part of the README discusses the technical steps necessary to typeset a lectionary. The last section of the README, *Project Considerations*, discusses some of the issues that need to be considered when planning and implementing the adoption of a lectionary.
+
+# Status
+
+The code has been succesfully used to produce lectionaries for Year A, B, and C for the Aruamu language of PNG. It mostly works.
+
+# Installing the Lectionary Tool
+
+1. Download ... and unzip the file into its own directory.
+2. Run LuaFowWindows*.exe to install Lua for Windows. 
+  1. Install it in the directory c:\Lua\5.1 (!!! Not the default directory that the installer suggests) Lua is the primary language that SILE is written in.
 
 
-Appendix - Build Dependencies
+# Creating a Lectionary Project in Paratext
 
-freetype\builds\windows\visualc\freetype.sln
-	out: freetype\objs\vc2010\Win32\freetype261.lib
+**Note:** It would be possible to do the lectionary typesetting directly in the main Paratext project but it feels safer to me to create a separate project to ensure that nothing that is done working on the lectionary can impact the main translation project.
 
-harfbuzz
-	freetype\include
-	freetype\objs\vc2010\Win32
-	out: harfbuzz\win32\libs\Release\harfbuzz.lib
+1. In Paratext use *File > New Project* to create a project to contain the lectionary. Give it the same language as the original project.
+2. If the project you are typesetting is a NT only project and you wish to create a lectionary that includes OT/DC readings you will need to copy OT/DC from a language or wider communication. You will need copyright permission from the copyright holder to do this.
+  + *Project > Copy Books* copying from language of wider communication to your lectionary project
+3. *Project > Copy Books* copying all books from your target language project to the lectionary project
+4. Create a module to hold the lectionary file for a year
+  + *Tools > Open Bible Module*. 
+  + Set *Open in Book* to *Extra A*. 
+  + Choose *Copy from specification file*. Browse to the directory where you installed the lectionary tool and go to the *Modules* subdirectory. 
+  + Pick the control file corresponding to the year you wish to typeset, e.g. Year_A.sfm, B, or C.
+5. Verify that all references are found by clicking on the icon in the top right of the winow (icon is a sheet of paper with a blue checkmark). If any references are missing you will need to either modify the references in your project text or modify the references in the module.
 
-Expat-win32bin
-	out: \Expat-win32bin\Source\win32\bin\Release\libexpat.dll
+# Typesetting a Lectionary Volume
 
-FontConfig
-	expat
-	iconv
-	out: FontConfig\Release\fontconfig.dll
+1. Go to the directory that you installed the lectionary software in.
+2. To typeset XXA double click the file XXA.bat.
+3. The first time you do this you will be prompted to enter the name of the project you are typesetting. This will be stored in the *ProjectName* file in the software directory. You can change this at any time by deleting the file causing the software to reprompt you for the project name.
+4. Typesetting should begin. WARNING: The first time you run this the program gathers information on all the fonts on your machine. This might take a minute or two. Next, a list of the page numbers being typeset should be shown, e.g. [1] [2] ... . On my machine it takes around ten minutes to typeset a 200 page volume.
 
-justenoughharfbuzz
-	FontConfig       (include)
-	C:\MinGW\msys\1.0\home\Miles\freetype\objs\vc2010\Win32\freetype261.lib
-	C:\MinGW\msys\1.0\home\Miles\harfbuzz\win32\libs\Release\harfbuzz.lib
-	C:\MinGW\msys\1.0\home\Miles\fontconfig\debug\fontconfig.lib
-	C:\Program Files\lua\5.1\lib\lua5.1.lib
-	Usp10.lib
+## Unknown Styles or Changing Style Formatting
+
+1. The specifications for the styles used in the lectionary are found in the *lectionary/styles.sil* file. The contents of this file are described in [The Sile Book](http://www.sile-typesetter.org/images/sile-0.9.1.pdf). Chapter 6 might be the most relevant. If you feel lucky you might be able to just look at some similar style in the file and adapt that one.
+2. Another possible option for dealing with unknown styles is to change them to a simpler known style in the lectionary project. We are not really aiming for fancy typesetting in the lectionary ... just that the text be layed out in a way that is relatively easy to be read out loud.
+
+# Project Considerations
+
+You will need to get formal permission from the copyright holders for the target language text in order to use it in a lectionary.
+
+If the target language text translation is a New Testament (NT) only you will need to decide whether to
+
+1. Print a lectionary with the NT only. This will make a smaller lectionary and be simpler to produce. The downside is that the lectionary reader will be forced to juggle two different lectionaries when reading, i.e. the NT lectionary you produce and the lectionary in the language of wider communication used to read the OT and DC readings. Forcing the reader to juggle two books may well discourage people from using your lectionary at all.  -OR-
+2. Print a lectionary with the NT readings from the target language text and the OT and DC readings from another text, in PNG for example you might use the Tok Pisin text. If you are going to use readings from a another text you will need to get formal copyright permission from the owner of that text.
+
+You will normally need to get formal permission from leaders in the faith community for the use of the produced text. In the case of the Aruamu lectionary this was the local leaders and the Archbishop. They may want to review with you how certain doctrinal issues have been handled in your translation.
+
+You will need to discuss with leaders in the faith community whether they want lectionary headings to be in the language of wider communication or to be in the target language. If some of the readers are not native speakers of the target language, it may be better for Scripture Use reasons to leave the headings in the language of wider communication.  There are some things that Aruamus decided to leave in Tok Pisin, because the non-Aruamu speakers do not want to be unable to find the place where the readings are, etc.  Research should be done on this, ASKING the right people.
+
+If you decide to change the heading to the target language, these will all need to be translated, checked and typed in.  This is not simple.  There are hundreds of them.  
+
+There are some dramas in the Lectionaries around Easter time.  These are just scripture, with different people reading the parts of different characters.  If these are wanted in the target language (which given the popularity of drama is not unlikely) they have to be translated "by hand"; someone has to go into the text and cut and paste each speakers part into the right place in the drama.  It is pretty fiddly, labor intensive; no current way to automate. 
+
+There are also some issues with the fact that, because Lectionaries pull verses out of larger context, sometimes things need to be inserted or deleted in order to make sense.  Sometimes connectors need to be added, or to be entirely different that what would be published in a Bible. Also, there are places whens the Lectionary will use parts of verses.  So, in order to pull the text correctly from a vernacular project (or Tok Pisin) the text will need to be marked to do that.
+
+Currently you can put things like the following the text: {He|Jesus} said ...
+This will cause the lectionary to read "Jesus said" but allow the typesetter to change this to just "He said ..." before doing the typesetting. This system is not ideal. It makes things more complicated and messes up checking. Alternately you could just edit the text in the lectionary project ... of course the downside to this is that if you want to create an updated version later you would have to repeat the edits, sigh.
+
+In the longer term I think we are going to want to allow the following in the target language translation
+
+    \rem subst "He said" => "Jesus said"
+    \p He said, ...
+
+By putting the adaptation in a \rem (remark) statement the normal translation/typesetting procedures would not be impacted by the lectionary changes.
