@@ -11,6 +11,13 @@
 --- remove aruamu from dramas, e.g. \c 92
 --- make sure all SAM sections have references
 
+--- Write instructions
+
+* make downloadable bundle
+** post it, shorten
+** download and try on lenovo
+** ask Bobby to try it
+
 * spell check tok pisin files
 
    check for non empty \b lines
@@ -21,10 +28,6 @@
 * test tok pisin files
 
 
-* Write instructions
-** missing styles
-** change project name
-** front matter and table of contents
 
 * Add Lua install
 
