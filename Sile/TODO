@@ -13,10 +13,7 @@
 
 --- Write instructions
 
-* make downloadable bundle
-** post it, shorten
-** download and try on lenovo
-** ask Bobby to try it
+* download and try on lenovo
 
 * spell check tok pisin files
 
@@ -25,16 +22,13 @@
    make sure no \rem's have publishable tok pisin data
    read thru dramas
 
-* test tok pisin files
+* test tok pisin files: a, b, c
 
 
 
-* Add Lua install
 
 * remove misc leftover files
 ** don't create temp files in main directory
-
-* check in as lectionary_win
 
 ---------------------
 

@@ -1,4 +1,3 @@
-**UNDER CONSTRUCTION**
 
 # Typesetting Lectionaries Using SILE
 
@@ -18,10 +17,8 @@ The code has been succesfully used to produce lectionaries for Year A, B, and C 
 
 # Installing the Lectionary Tool
 
-1. Download ... and unzip the file into its own directory.
+1. Download https://goo.gl/GPfJsV and unzip the file into its own directory.
 2. Run LuaFowWindows*.exe to install Lua for Windows. 
-  1. Install it in the directory c:\Lua\5.1 (!!! Not the default directory that the installer suggests) Lua is the primary language that SILE is written in.
-
 
 # Creating a Lectionary Project in Paratext
 
