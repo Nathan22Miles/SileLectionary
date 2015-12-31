@@ -1,3 +1,4 @@
+\id XXA
 \rem Tok Pisin Lectionary Year A
 \mt TAIM
 \b
@@ -823,6 +824,7 @@
 \p2 Glori na biknem long yu, Bikpela Jisas Krais.
 \p3 Krais i daunim em yet na i bihainim tok bilong God, i go inap long em i dai, yes, inap long em i dai long diwai kros. Long dispela as tasol God i litimapim Jisas na mekim em i stap antap tru. Na God i givim em wanpela nem i gutpela tru na i winim olgeta arapela nem.
 \p2 Glori na biknem long yu, Bikpela Jisas Krais.
+\rem ============= DRAMA START (Longpela) ==================
 \ms GUTNIUS (Longpela Rit) \rq Mt 26:14-27:66
 \p2 (S = Stori; J = Jisas; W = wan wan man o meri; O = Olgeta)
 \s1 Stori bilong Jisas Krais i karim pen na i dai, Matyu i raitim.
@@ -916,7 +918,7 @@
 \sp S: Na ol bikpris wantaim ol hetman ol i sutim planti tok long Jisas. Tasol em i no bekim wanpela tok. Olsem na Pailat i askim em gen olsem,
 \sp W: "Ating yu no harim olgeta dispela toktok ol i sutim long yu?"
 \sp S: Na Jisas i no bekim wanpela tok long Pailat. Olsem na Pailat i tingting planti. Long olgeta yia long dispela bikpela de bilong lotu, namba wan gavman i save lusim wanpela kalabusman. ol manmeri yet i save kolim nem bilong wanpela man i stap long kalabus, na Pailat i save lusim dispela man i go long ol. Na long dispela taim i gat wanpela man nogut tru i stap long kalabus, nem bilong en Jisas Barabas. ol manmeri i kam bung pinis, orait Pailat i askim ol olsem,
-\sp W: "Yupela i laik bai mi lusim husat i go long yupela? Bai mi lusim Jisas Barabas, 0 bai mi lusim dispela Jisas ol i tok God i bin salim em i kam?"
+\sp W: "Yupela i laik bai mi lusim husat i go long yupela? Bai mi lusim Jisas Barabas, o bai mi lusim dispela Jisas ol i tok God i bin salim em i kam?"
 \sp S: Pailat i tok olsem, long wanem, em i save, ol i bel nogut tasol long Jisas, na ol i bringim em i kam long kot. Na tu, taim Pailat i sindaun i stap long sia bilong jas, meri bilong en i bin salim tok i kam long em olsem,
 \sp W: "Yu no ken mekim wanpela samting long dispela stretpela man. Long nait mi lukim em long wanpela driman, na mi pilim bikpela hevi."
 \sp S: Ol bikpris wantaim ol hetman i kirapim bel bilong ol manmeri, long ol i mas singaut long Pailat i mas lusim Barabas na i kilim Jisas i dai. Na namba wan gavman i askim ol gen olsem,
@@ -946,7 +948,7 @@
 \sp S: As bilong dispela tok i olsem, "God bilong mi, God bilong mi, bilong wanem yu lusim mi?" Sampela man i sanap klostu, ol i harim dispela tok, na ol i tok,
 \sp O: "Dispela man i singautim Elaija."
 \sp S: Na kwiktaim wanpela bilong ol i ran i go kisim wanpela spans na putim long wain. Na taim wain i pulap long en, em i pasim long wanpela stik na i givim long Jisas bilong dring. Tasol ol arapela i tok,
-\sp O: "Wet, yumi lukim pastaim. Ating bai Elaija i kam helpim em, 0 nogat?"
+\sp O: "Wet, yumi lukim pastaim. Ating bai Elaija i kam helpim em, o nogat?"
 \sp S: Jisas i singaut strong moa gen, na em i lusim spirit bilong en i go na em i dai. (ol i nildaun na pre liklik.)
 \sp S: Long dispela taim tasol dispela bikpela laplap i hangamap i stap insait long tempel em i bruk long antap i go inap long daunbilo bilong en, na i kamap tupela hap. Na graun i guria, na ol bikpela ston i bruk. Na ol pies matmat i op, na planti manmeri bilong God, bipo ol i dai pinis, nau ol i kirap. ol i lusim matmat, na bihain long Jisas i kirap bek pinis, ol i go insait long taun bilong God. N a planti manmeri i lukim ol. Kepten wantaim ol soldia i was long Jisas i stap, ol i lukim graun i guria na ol samting i kamap, na ol i pret moa. Na ol i tok olsem,
 \sp O: "Tru tumas, dispela man em i Pikinini Bilong God."
@@ -955,8 +957,9 @@
 \sp S: Orait Pailat i tokim ol olsem,
 \sp W: "Yupela kisim ol soldia na tokim ol long was i stap long dispela matmat. Yupela go na mekim olgeta samting yupela i laik mekim bilong pasim strong dispela matmat."
 \sp S: Orait na ol i go pasim matmat. ol i putim mak bilong tambuim dispela ston i stap long maus bilong hul, na ol i putim ol soldia bilong was long matmat.
+\rem ============= DRAMA START (Sotpela) ==================
 \ms GUTNIUS (sotpela Rit) \rq Mt 27: 11-54
-\p2 (S = Stori; J = Jisas; W = wan wan man 0 meri; 0 = Olgeta)
+\p2 (S = Stori; J = Jisas; W = wan wan man o meri; O = Olgeta)
 \s1 Stori bilong Jisas Krais i karim pen na i dai, Matyu i raitim.
 \sp S: ol i kisim Jisas i go na putim em long han bilong namba wan gavman Pailat. Jisas i sanap i stap long ai bilong Pailat, na Pailat i askim em olsem,
 \sp W: "Yu king bilong ol Juda, a?"
@@ -965,7 +968,7 @@
 \sp S: Na ol bikpris wantaim ol hetman ol i sutim planti tok long Jisas. Tasol em i no bekim wanpela tok. Olsem na Pailat i askim em gen olsem,
 \sp W: "Ating yu no harim olgeta dispela toktok ol i sutim long yu?"
 \sp S: Na Jisas i no bekim wanpela tok long Pailat. Olsem na PaiIat i tingting planti. Long olgeta yia long dispela bikpela de bilong lotu, namba wan gavman i save lusim wanpela kalabusman. ol manmeri yet i save kolim nem bilong wanpela man i stap long kalabus, na PaiIat i save lusim dispela man i go long ol. Na long dispela taim i gat wanpela man nogut tru i stap long kalabus, nem bilong en Jisas Barabas. ol manmeri i kam bung pinis, orait Pailat i askim ol olsem,
-\sp W: "Yupela i laik bai mi lusim husat i go long yupela? Bai mi lusim Jisas Barabas, 0 bai mi lusim dispela Jisas ol i tok God i bin salim em i kam?"
+\sp W: "Yupela i laik bai mi lusim husat i go long yupela? Bai mi lusim Jisas Barabas, o bai mi lusim dispela Jisas ol i tok God i bin salim em i kam?"
 \sp S: Pailat i tok olsem, long wanem, em i save, ol i bel no gut tasol long Jisas, na ol i bringim em i kam long kot. Na tu, taim Pailat i sindaun i stap long sia bilong jas, meri bilong en i bin salim tok i kam long em olsem,
 \sp W: "Yu no ken mekim wanpela samting long dispela stretpela man. Long nait mi lukim em long wanpela driman, na mi pilim bikpela hevi."
 \sp S: ol bikpris wantaim ol hetman i kirapim bel bilong ol manmeri, long ol i mas singaut long Pailat i mas lusim Barabas na i kilim Jisas i dai. Na namba wan gavman i askim ol gen olsem,
@@ -999,6 +1002,7 @@
 \sp S: Jisas i singaut strong moa gen, na em i lusim spirit bilong en i go na em i dai. (ol i nildaun na pre liklik.)
 \sp S: Long dispela taim tasol dispela bikpela laplap i hangamap i stap insait long tempel em i bruk long antap i go inap long daunbilo bilong en, na i kamap tupela hap. Na graun i guria, na ol bikpela ston i bruk. Na ol pIes matmat i op, na planti manmeri bilong God, bipo ol i dai pinis, nau ol i kirap. ol i lusim matmat, na bihain long Jisas i kirap bek pinis, ol i go insait long taun bilong God. Na planti manmeri i lukim ol. Kepten wantaim ol soldia i was long Jisas i stap, ol i lukim graun i guria na ol samting i kamap, na ol i pret moa. Na ol i tok olsem,
 \sp O: "Tru tumas, dispela man em i Pikinini Bilong God."
+\rem ============= DRAMA END ==================
 \c 20
 \ms1 GUTFONDE: MISA BILONG BLESIM HOLI WEL
 \ms 1. RIT \rq Ais 61:1-3, 6, 8-9
@@ -1120,8 +1124,10 @@
 \p2 Glori na biknem long yu, Bikpela Jisas Krais.
 \p3 Krais i daunim em yet na em i bihainim tok bilong God, i go inap long em i dai, yes, inap long em i dai long diwai kros. Long dispela as tasol God i litimapim Jisas na mekim em i stap antap tru. Na God i givim em wanpela nem i gutpela tru na i winim olgeta arapela nem.
 \p2 Glori na biknem long yu, Bikpela Jisas Krais.
+\rem ============= DRAMA START ==================
+\rem THIS DRAMA IS THE SAME IN ALL THREE YEARS!!!
 \ms GUTNIUS Jo 18:1-19:42
-\p2 (S = Stori; J = Jisas; W = wan wan man 0 meri; 0 = Olgeta)
+\p2 (S = Stori; J = Jisas; W = wan wan man o meri; O = Olgeta)
 \s1 Stori bilong Jisas Krais i karim pen na i dai, Jon i raitim.
 \sp S: Jisas wantaim ol disaipel bilong en ol i go brukim wara Kidron. Long hapsait bilong dispela wara wanpela gaden i stap, na Jisas wantaim ol disaipel bilong en ol i go insait long gaden. Judas, em man i laik givim Jisas long han bilong ol birua, em tu i save long dispela gaden, long wanem, planti taim Jisas i save bung wantaim ol disaipel bilong en long dispela gaden. Olsem na Judas i kisim ol lain soldia na sampela plisman bilong ol bikpris na ol Farisi, na em i bringim ol i kam long dispela hap. Na ol i holim lo lam na bombom na ol samting bilong pait. Jisas i save long olgeta samting i laik kamap long en. Olsem na em i go klostu long ol dispela lain na i askim ol olsem,
 \sp J: "Yupela i painim husat?"
@@ -1224,6 +1230,7 @@
 \sp S: Em i mekim dispela tok na em inapim wanpela tok i stap long buk bilong God. Wanpela sospen i gat wain em i stap klostu. Olsem na ol i kisim wanpela spans na putim long wain. Na taim wain i pulap long en, ol i pasim long han bilong diwai hisop na ol i putim i go long maus bilong Jisas. Jisas i dring dispela wain pinis, orait em i tok,
 \sp J: "Em i pinis nau,"
 \sp S: na em i daunim het na i lusim spirit bilong en i go. (Of i nildaun na pre liklik.) Em i de bilong redim ol samting bilong de Sabat. Dispela de Sabat em i bikpela de tru, olsem na ol Juda i no laik bai ol bodi i stap long diwai kros long dispela de. Olsem na ol i tokim Pailat long brukim lek bilong ol man i stap long diwai kros, bai ol i ken dai hariap na ol i ken rausim bodi bilong ol. Orait ol soldia i go na ol i brukim lek bilong dispela tupela man ol i bin hangamapim wantaim Jisas. Tasol taim ol i kamap long Jisas, ol i lukim em i dai pinis. Olsem na ol i no brukim lek bilong em. Tasol wanpela soldia i sutim sait bilong Jisas long spia. Na wantu blut wantaim wara i kapsait. Man i lukim dispel a, em i tokaut pinis long samting em i lukim. Na dispela tok em i autim, em i tru. Na em yet i save em i tok tru. Olsem na yupela i ken bilip. Ol dispela samting i mekim wanpela tok i stap long buk bilong God i kamap tru. Dispela tok i olsem, "Bai ol i no brukim wanpela bun bilong en." Na narapela tok i stap long buk bilong God, em i olsem, "Bai ol i lukluk long dispela man ol i bin sutim." Orait bihain Josep bilong Arimatea i go askim Pailat long larim em i kisim bodi bilong Jisas. Josep em i wanpela disaipel bilong Jisas, tasol em i pret long ol Juda na em i haitim bilip bilong en. Pailat i tok orait long em, olsem na Josep i go kisim bodi bilong Jisas. Na Nikodemus, em dispela man pastaim em i bin i kam lukim Jisas long nait, em tu i kam. Em i bringim sampela sanda i gat gutpela smel, ol i bin wokim long blut bilong tupela kain diwai, em ol i bin tanim wantaim. Hevi bilong dispela sanda em inap 30 kilogram. Josep na Nikodemus tupela i kisim bodi bilong Jisas, na putim dispel a sanda long en, na karamapim long ol gutpela laplap, olsem ol Juda i save mekim long bodi bilong ol man i dai pinis. Klostu long dispela hap ol soldia i bin hangamapim Jisas long diwai kros, i gat wanpela gaden i stap. Na long dispela gaden i gat wanpela nupela matmat i stap, em ol i no bin putim bodi bilong wanpela man long en yet. Em i de bilong ol Juda i redim ol samting bilong de Sabat, na dispela matmat i stap klostu. Olsem na tupela i karim bodi bilong Jisas i go putim long dispela matmat.
+\rem ============= DRAMA END ==================
 \c 23
 \ms1 LOTU BILONG ISTA NAIT
 \ms 1. RIT (Longpela Rit) \rq Jen 1:1 - 2:2
