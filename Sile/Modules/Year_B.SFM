@@ -313,10 +313,10 @@
 \ref PSA 98:1
 \s1 Bekim: Olgeta lain manmeri i lukim pinis wok marimari bilong God.
 \rem TODO only "Bikpela i tokaut long em i win pinis. Em i soim stretpela pasin bilong em long olgeta lain manmeri. Em inapim promis bilong em, em i sambai oltaim long lain Israel, long wan em, em i laikim ol tumas.
-\ref PSA 98:2-3a
+\ref PSA 98:2,3a
 \s1 Bekim: Olgeta lain manmeri i lukim pinis wok marimari bilong God.
 \rem TODO only "Olgeta manmeri bilong olgeta hap bilong graun i lukim pinis God bilong yumi i win. Olgeta kantri bilong graun, yupela singaut strong long Bikpela. Yupela tok amamas long em wantaim singsing na musik."
-\ref PSA 98:3b-4
+\ref PSA 98:3b,4
 \s1 Bekim: Olgeta lain manmeri i lukim pinis wok marimari bilong God.
 \rem TODO only "Singim ol song bilong litimapim nem bilong God. Paitim gita na kundu. Winim biugel na mambu. Yupela singaut strong na litimapim nem bilong Bikpela, em king bilong yumi.
 \ref PSA 98:5-6
@@ -799,7 +799,7 @@
 \s2 Dispela em i Gutnius bilong Jisas Krais.
 \dend
 \c 20
-\ms1 MISA
+\ms2 MISA
 \ms 1. RIT \rq Ais 50:4-7
 \mr Hettok: Taim ol i tok nogut long mi na spetim pes bilong mi, mi no bin haitim pes bilong mi long ol.
 \s1 Rit i kam long buk bilong profet Aisaia.
@@ -842,7 +842,6 @@
 \rem (This drama section will need to formatted by hand, in a separate Paratext project, rather than as an extraction from Paratext in this project, so that the right portions of the text are assigned to the right readers.)
 \sp S: Bihain long tupela de Pestode bilong Pasova, na ol Bikpela De Bilong Bret I No Gat Yis, ol bai i kamap. Na ol bikpris na ol saveman bilong lo ol i tok, "Olsem wanem na yumi ken giamanim Jisas na holimpas em na kilim em i dai?" (Note: Tok Pisin uses a direct quote here; some languages don't. Need to make each language fit the drama.) Ol i tok,
 \rem ref MRK 14:1-2
-\sp O: ref MRK 14:2
 \sp S: Jisas i stap long ples Betani long haus bilong Saimon, em wanpela man bipo i bin i gat sik lepra. Em i sindaun long tebol, na wanpela meri i kam. Dispela meri i karim wanpela naispela botol ston i gat nambawan sanda, em i dia tumas. Na em i brukim dispela botol na i kapsaitim sanda long het bilong Jisas. Tasol sampela man i stap, ol i lukim na ol i bel nogut. Na ol i toktok namel long ol yet olsem,
 \rem ref MRK 15:3-4
 \sp O: "Bilong wanem em i pinisim nating dispela sanda? Sapos yumi bin larim ol manmeri i baim, bai yumi inap kisim samting olsem 300 mani silva long en na givim long ol rabisman."
@@ -1047,7 +1046,7 @@
 \rem "Jisas i dai pinis, o nogat?"
 \rem Pailat i harim pinis tok bilong kepten, orait em i tokim Josep olsem em i ken kisim bodi. Orait Josep i go baim wanpela longpela waitpela laplap, na em i kisim bodi bilong Jisas i kam daun. Na em i karamapim em long waitpela laplap, na em i kisim bodi i go na i putim insait long wanpela matmat. Dispela matmat em wanpela hul bilong ston ol man i bin wokim. Na Josep i tantanim wanpela ston i kam pasim maus bilong hul. Maria bilong Makdala wantaim Maria, mama bilong Josep, tupela i lukluk i stap, na tupela i lukim ples ol i putim Jisas long en.
 \rem ref MRK 15:40-47
-\rem End of drama
+\rem ============ DRAMA START (Sotpela) ================
 \ms GUTNIUS (Sotpela Rit) Mk 15:1-39
 \mr (S = Stori; J = Jisas; W = wan wan man o meri; O = Olgeta)
 \s1 Stori bilong Jisas Krais i karim pen na i dai, Mak i raitim.
@@ -1118,76 +1117,6 @@
 \sp W: "Tru tumas, dispela man em i Pikinini Bilong God."
 \rem ref MRK 15:39
 \rem End of drama
-\rem ============= DRAMA START (Sotpela) ==================
-\ms GUTNIUS (Sotpela Rit) Mk 15:1-39
-\mr (S = Stori; J = Jisas; W = wan wan man o meri; O = Olgeta)
-\s1 Stori bilong Jisas Krais i karim pen na i dai, Mak i raitim.
-\rem Start of drama
-\sp S: Long moningtaim tru ol bikpris wantaim ol hetman na ol saveman bilong lo na olgeta kaunsil ol i bung na toktok gut long samting ol i mas mekim. Na bihain ol i pasim Jisas long baklain, na ol i kisim em i go na putim em long han bilong Pailat. Na Pailat i askim Jisas olsem,
-\rem ref MRK 15:1-2
-\sp W: "Yu king bilong ol Juda, a?"
-\rem ref MRK 15:2
-\sp S: Na Jisas i bekim tok olsem,
-\rem ref MRK 15:2
-\sp J: "Yu yet yu tok olsem."
-\rem ref MRK 15:2
-\sp S: Ol bikpris i sutim planti tok long Jisas, na Pailat i askim em gen olsem,
-\rem ref MRK 15:3-4
-\sp W: "Yu no laik bekim wanpela tok, a? Yu harim pinis dispela ol planti tok ol i sutim long yu."
-\rem ref MRK 15:4
-\sp S: Tasol Jisas i no bekim wanpela tok moa, na dispela i mekim Pailat i tingting planti. Long olgeta yia long dispela bikpela de bilong lotu, Pailat i save lusim wanpela kalabusman. ' ol manmeri yet i save kolim nem bilong wanpela man i stap long kalabus, na Pailat i save lusim dispela man i go long ol. Long dispela taim ol i bin kalabusim ol man i bin kirapim pait long gavman na kilim sampela man i dai. Wanpela man bilong dispela lain em man ol i kolim Barabas. Orait ol manmeri i kamap na ol i askim Pailat long mekim olsem bipo em i save mekim long ol. Na Pailat i bekim tok bilong ol olsem,
-\rem ref MRK 15:5-9
-\sp W: "Ating yupela i laik bai mi lusim dispela king bilong ol Juda i go long yupela?"
-\rem ref MRK 15:9
-\sp S: Pailat i tok olsem, long wanem, em i save, ol bikpris ol i bel nogut tasol long Jisas na ol i bringim em i kam long kot. Tasol ol bikpris i kirapim bel bilong ol manmeri, long ol i mas singaut long Pailat long em i no ken lusim Jisas. Em i mas lusim Barabas i kam long ol. N a Pailat i askim ol gen olsem,
-\rem ref MRK 15:10-12
-\sp W: "Na yupela i laik bai mi mekim wanem long dispela man, yupela i save kolim em king bilong ol Juda?"
-\rem ref MRK 15:12
-\sp S: Na ol i singaut gen olsem,
-\rem ref MRK 15:13
-\sp O: "Nilim em long diwai kros."
-\rem ref MRK 15:13
-\sp S: Na Pailat i askim ol,
-\rem ref MRK 15:14
-\sp W: "Bilong wanem? Em i mekim wanem rong?"
-\rem ref MRK 15:14
-\sp S: Tasol ol i singaut strong moa,
-\rem ref MRK 15:14
-\sp O: "Nilim em long diwai kros."
-\rem ref MRK 15:14
-\sp S: Na Pailat i laik mekim ol manmeri i amamas. Olsem na em i lusim Barabas i go long ol. Na em i tok na ol soldia i wipim Jisas. Na bihain em i givim Jisas long han bilong ol soldia, bai ol i nilim em long diwai kros. ol soldia i bringim Jisas i go insait long banis bilong haus gavman, na ol i singautim olgeta soldia i kam. ol i putim wanpela retpela klos long Jisas. Na ol i kisim ol rop i gat nil na wokim samting olsem hat bilong king, na ol i putim long het bilong en. Na ol i tokim em olsem,
-\rem ref MRK 15:15-18
-\sp O: "Gude, king bilong ol Juda!"
-\rem ref MRK 15:18
-\sp S: Na ol i kisim wanpela kanda na paitim het bilong en. Na ol i spet long em. Na ol i brukim skru na mekim ol pasin olsem ol i laik givim biknem long em. ol i mekim dispela olgeta pasin bilong tok bilas long em pinis, orait ol i rausim retpela klos long em, na ol i putim bek klos bilong em yet. Na ol i kisim em i go bilong hangamapim em long diwai kros. Wanpela man, nem bilong en Saimon bilong taun Sairini, em i kam na i laik i go insait long taun. Saimon em i papa bilong Aleksander tupela Rufus. Na ol soldia i kisim em na mekim em i karim diwai kros bilong Jisas. ol i kisim Jisas i go long wanpela ples, nem bilong en Golgota. As bilong dispela nem i olsem, ples bilong bun bilong het. ol i laik givim Jisas sampela wain ol i bin tanim wantaim marasin. Tasol em i no dring. Orait ol soldia i hangamapim Jisas long diwai kros. Na ol i tilim ol klos samting bilong en long ol yet. ol i pi1ai satu bilong makim husat bai i kisim wanem wanem samting. Long 9 klok long moningtaim, ol i hangamapim em long diwai kros. Na long hap ol i save raitim tok ol i bin kotim man long en, ol i raitim tok olsem, "King bilong ol Juda." Klostu long Jisas ol i hangamapim tupela man bilong pait na stil. ol i hangamapim wanpela long diwai kros i stap long han sut bilong em, na wanpela long diwai kros i stap long han kais. Na ol manmeri i kam i go ol i tok bilas long em. ol i naisim het na i tok,
-\rem ref MRK 15:19-29
-\sp O: "Goan, yu man bilong brukim tempel na wokim gen long tripela de tasol. Nau yu ken helpim yu yet. Lusim diwai kros na kam daun."
-\rem ref MRK 15:29-30
-\sp S: Ol bikpris wantaim ol saveman bilong 10, ol tu i tok bilas. ol i tok namel long ol yet olsem,
-\rem ref MRK 15:31
-\sp O: "Em i bin helpim ol arapela manmeri, tasol em i no inap helpim em yet. Dispela mesaia, dispela king bilong Israel, em i ken lusim diwai kros na i kam daun, na bai yumi ken lukim, na yumi ken bilip."
-\rem ref MRK 15:31-32
-\sp S: Tupela man ol i bin hangamapim long ol diwai kros klostu long Jisas, tupela tu i mekim tok bilas long em. Long 12 klok, tudak i karamapim graun olgeta, i go inap long 3 klok long apinun. Na long 3 klok Jisas i singaut strong olsem,
-\rem ref MRK 15:32-34
-\sp J: "Eloi, Eloi, lama sabaktani?"
-\rem ref MRK 15:34
-\sp S: As bilong dispela tok i olsem, "God bilong mi, God bilong mi, bilong wanem yu lusim mi?" Sampela man i sanap klostu, ol i harim dispela tok na ol i tok,
-\rem ref MRK 15:34-35
-\sp O: "Harim. Em i singautim Elaija."
-\rem ref MRK 15:35
-\sp S: Na wanpela man i ran i go na i putim wanpela spans long wain. Na taim wain i pulap long en, em i pasim long wanpela stik na i givim long Jisas bilong dring. Na dispela man i tok,
-\rem ref MRK 15:36
-\sp W: "Wet, yumi lukim pastaim. Ating bai Elaija i kam kisim em i kam daun, o nogat?"
-\rem ref MRK 15:36
-\sp S: Na Jisas i singaut strong moa, na em i dai.
-\rem ref MRK 15:37
-\b
-\p2 (Ol i nildaun na pre liklik.)
-\b
-\sp S: Na dispela bikpela laplap i hangamap i stap insait long tempel em i bruk long antap i go inap long daunbilo bilong en, na i kamap tupela hap. Na kepten bilong ol soldia em i sanap klostu long Jisas na em i lukim pasin Jisas i dai. Na em i tok,
-\rem ref MRK 15:38-39
-\sp W: "Tru tumas, dispela man em i Pikinini Bilong God."
-\rem ref MRK 15:39
 \rem ============= DRAMA END ==================
 \c 21
 \ms1 GUTFONDE: MISA BILONG BLESIM HOLI WEL
@@ -1879,7 +1808,7 @@
 \ref PSA 98:1
 \s1 Bekim: Bikpela i soim stretpela pasin bilong em long olgeta lain pipel.
 \rem TODO only "Bikpela i tokaut long em i win pinis. Ern i soim stretpela pasin bilong em long olgeta lain manmeri. Em inapim promis bilong ern, em i sambai oltaim long lain Israel, long wanem, em i laikim ol tumas."
-\ref PSA 98:2-3b
+\ref PSA 98:2,3a,3b
 \s1 Bekim: Bikpela i soim stretpela pasin bilong em long olgeta lain pipel.
 \rem TODO only "Olgeta manrneri bilong olgeta hap bilong graun i lukim pinis God bilong yumi i win. Olgeta kantri bilong graun, yupela singaut strong long Bikpela. Yupela tok amamas long em wantaim singsing na musik."
 \ref PSA 98:4
@@ -3129,7 +3058,7 @@
 \rem After extraction, delete the first part of vs 6; leave the part about God keeping his promises, or being faithful.
 \s1 Bekim: Litimapim nem bilong Bikpela!
 \rem TODO only "Em i save mekim ol aipas i lukluk, na em i save pinisim ol hevi bilong ol manrneri, hevi i daunim ol. Em i save laikim ol stretpela manmeri. Bikpela i save was long ol arapela lain i stap long kantri bilong yumi."
-\ref PSA 146:8-9a
+\ref PSA 146:8,9a
 \rem after extraction delete vs 9, after the first sentence. (vs 9 is split between this utterance and the next utterance after the 'bekim',)
 \s1 Bekim: Litimapim nem bilong Bikpela!
 \rem TODO only "Em i save helpim ol meri, man bilong ol i dai pinis, na ol pikinini i no gat papamama, tasol em i save paulim wok bilong ol manrneri no gut."
@@ -3432,11 +3361,11 @@
 \ms SAM \rq Sam 126:1-6
 \s1 Bekim: Bikpela, mi amamas long ol wok bilong yu.
 \rem TODO only "Taim Bikpela i bringim ol kalabus i kam bek long Jerusalem, mipela i ting mipela i driman tasol. Olsem na mipela i lap moa yet, na mipela i singim song bilong amamas."
-\ref PSA 126:1-2a
+\ref PSA 126:1,2a
 \rem After extraction, split vs 2; the first sentence goes with this utterance, and the rest of the vs with the next
 \s1 Bekim: Bikpela, mi amamas long ol wok bilong yu.
 \rem TODO only "ol arapela lain manmeri i tok olsem, "Tru tumas, Bikpela i bin mekim bikpela wok bilong helpim ol." Na em i tru. Bikpela i mekim planti bikpela wok bilong helpim mipela, olsem na mipela i amamas tru."
-\ref PSA 126:2b-3
+\ref PSA 126:2b,3
 \rem After extraction, split vs 2; delete the first sentence (which is in the previous utterance); leave the rest of the verse.
 \s1 Bekim: Bikpela, mi amamas long ol wok bilong yu.
 \rem TODO only "Bikpela, mekim mipela i fri na i kamap nupela gen, olsem ol baret long ples drai i pulap long wara gen. ol manmeri i bin hatwok long planim gaden, nau ol i ken amamas long bungim kaikai."
@@ -3475,11 +3404,11 @@
 \ms SAM \rq Sam 18:2-4, 47, 51
 \s1 Bekim: Bikpela, mi laikim yu tru wantaim olgeta strong bilong mi.
 \rem TODO only "Bikpela, mi laikim yu tru. Yu tasol, yu strong bilong mi. Yu save lukautim mi, yu strongpela banis bilong mi, yu save kisim bek mi."
-\ref PSA 18:1-2a
+\ref PSA 18:1,2a
 \rem after extraction, delete all but the first sent of vs 2 (This vs is split between this utterance and the next)
 \s1 Bekim: Bikpela, mi laikim yu tru wantaim olgeta strong bilong mi.
 \rem TODO only "Yu God bilong mi, yu olsem maunten ston i haitim mi long ol birua. Yu olsem plang bilong pait, yu helpim na strong bilong mi. Mi singaut long Bikpela na em i kisim bek mi long han bilong ol birua. Yumi mas litimapim nem bilong em."
-\ref PSA 18:2b-3
+\ref PSA 18:2b,3
 \rem After extraction, delete first sent of vs 2, and leave the rest.
 \s1 Bekim: Bikpela, mi laikim yu tru wantaim olgeta strong bilong mi.
 \rem TODO only "Bikpela i stap oltaim, em i save strongim mi. Olsem na mi litimapim nem bilong em. God i save kisim bek mi, olsem na mi litimapim biknem bilong em. God, yu save mekim king bilong yu i win long ol bikpela pait. Inap oltaim yu save laikim tru dispela man yu makim pinis."
@@ -3520,7 +3449,7 @@
 \rem After extraction, only include the last sentence of vs 6.
 \s1 Bekim: Bai mi litimapim nem bilong Bikpela.
 \rem TODO only "Em i save mekim ol aipas i lukluk, na em i save pinisim ol hevi bilong ol manmeri, hevi i daunim ol. Em i save laikirn ol stretpela manmeri. Bikpela i save was long ol arapela lain i stap long kantri bilong yumi."
-\ref PSA 146:8-9a
+\ref PSA 146:8,9a
 \rem After extraction, split vs 9; include the first sent. in this utterance.
 \s1 Bekim: Bai mi litimapim nem bilong Bikpela.
 \rem TODO only "Em i save helpim ol meri, man bilong ol i dai pinis, na ol pikinini i no gat papamama, tasol em i save paulirn wok bilong ol manmeri nogut."
@@ -3747,7 +3676,7 @@
 \s1 Rit i kam long buk bilong profet Aisaia.
 \dbeg
 \ref ISA 7:10-14
-\ref ISA 8:10
+\ref ISA 8:10a,10b
 \s2 Dispela em i Tok bilong God.
 \dend
 \ms SAM \rq Sam 40:7-11
@@ -3844,10 +3773,10 @@
 \ref PSA 139:1-3
 \s1 Bekim: Mi tenkim yu long gutpela bodi bilong mi.
 \rem TODO only "Yu yet i bin wokim olgeta hap bodi bilong mi, yu bin wokim mi olgeta insait long bel bilong mama. Mi tenkim yu long gutpela bodi bilong mi; olgeta wok bilong yu i smatpela tru."
-\ref PSA 139:13-14a
+\ref PSA 139:13,14a
 \s1 Bekim: Mi tenkim yu long gutpela bodi bilong mi.
 \rem TODO only " Mi luksave tru long nambawan wok bilong yu na i no gat wanpela samting bilong mi i hait long ai bilong yu. Taim ol bun bilong mi i wok long kamap insait long bel bilong mama, na mi stap long ples hait na mi gro, yu save pinis long mi."
-\ref PSA 139:14b-15
+\ref PSA 139:14b,15
 \s1 Bekim: Mi tenkim yu long gutpela bodi bilong mi.
 \ms 2. RIT \rq Ap 13:22-26
 \mr Hettok: Jon i tokaut pinis long Krais bai i kam.
@@ -4314,10 +4243,10 @@
 \ref PSA 98:1
 \s1 Bekim: Olgeta pipel i lukim pinis, God bilong mipela i save win.
 \rem TODO only "Bikpela i tokaut long em i win pinis. Em i soim stretpela pasin bilong em long olgeta lain manmeri. Em inapim promis bilong em, em i sambai oltaim long lain Israel, long wanem, em i laikim ol tumas."
-\ref PSA 98:2-3a
+\ref PSA 98:2,3a
 \s1 Bekim: Olgeta pipel i lukim pinis, God bilong mipela i save win.
 \rem TODO only "Olgeta manmeri bilong olgeta hap bilong graun i lukim pinis God bilong yumi i win. Olgeta kantri bilong graun, yupela singaut strong long Bikpela. Yupela tok amamas long em wantaim singsing na musik."
-\ref PSA 98:3b-4
+\ref PSA 98:3b,4
 \s1 Bekim: Olgeta pipel i lukim pinis, God bilong mipela i save win.
 \rem TODO only "Olgeta pipel i lukim pinis, God bilong mipela i save win. Singim ol song bilong litimapim nem bilong God. Paitim gita na kundu. Winim biugel na mambu. Yupela singaut strong na litimapim nem bilong Bikpela, king bilong yumi."
 \ref PSA 98:5-6
@@ -4571,10 +4500,10 @@
 \ref PSA 98:1
 \s1 Bekim: Singim nupela song bilong litimapim nem bilong Bikpela.
 \rem TODO only "Bikpela i tokaut long em i win pinis. Em i soim stretpela pasin bilong em long olgeta lain manmeri. Em inapim promis bilong em, em i sambai oltaim long lain Israel, long wanem, em i laikim ol tumas."
-\ref PSA 98:2-3a
+\ref PSA 98:2,3a
 \s1 Bekim: Singim nupela song bilong litimapim nem bilong Bikpela.
 \rem TODO only "Olgeta manmeri bilong olgeta hap bilong graun i lukim pinis God bilong yumi i win. Olgeta kantri bilong graun, yupela singaut strong long Bikpela. Yupela tok amamas long em wantaim singsing na musik."
-\ref PSA 98:3b-4
+\ref PSA 98:3b,4
 \s1 Bekim: Singim nupela song bilong litimapim nem bilong Bikpela.
 \ms 2. RIT \rq Ef 1:3-6, 11-12
 \mr Hettok: Bipo yet God i makim mipela bilong pas wantaim Krais na kamap lain manmeri tru bilong God.

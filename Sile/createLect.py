@@ -100,8 +100,9 @@ def adjustText(text):
     # remove book lines
     text = re.sub(r'<book.*\n', r'', text)
 
-    text = re.sub(r'<para style="dbeg" />', r'<twocol>', text)
-    text = re.sub(r'<para style="dend" />', r'</twocol>', text)
+    text2 = re.sub(r'<para style="dbeg"[^>/]*/>', r'<twocol>', text)
+
+    text = re.sub(r'<para style="dend"[^>/]*/>', r'</twocol>', text2)
 
     text = re.sub(r'<para style="b" />', r'<b/>', text)
 
