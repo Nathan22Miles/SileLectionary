@@ -33,6 +33,7 @@ The code has been succesfully used to produce lectionaries for Year A, B, and C 
   + Set *Open in Book* to *Extra A*. 
   + Choose *Copy from specification file*. Browse to the directory where you installed the lectionary tool and go to the *Modules* subdirectory. 
   + Pick the control file corresponding to the year you wish to typeset, e.g. Year_A.sfm, B, or C.
+    + There is also Year_A_NT.SFM (etc). This only has the NT references. That means you don't have to provide any text for OT references but the reader will have to juggle two different lectionaries to do the morning reading. That may make using your lectionary just "too much trouble" and limit its use. These files have not been very carefully checked yet.
 5. Verify that all references are found by clicking on the icon in the top right of the winow (icon is a sheet of paper with a blue checkmark). If any references are missing you will need to either modify the references in your project text or modify the references in the module.
 
 # Typesetting a Lectionary Volume
