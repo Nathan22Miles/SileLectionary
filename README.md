@@ -17,8 +17,13 @@ The code has been succesfully used to produce lectionaries for Year A, B, and C 
 
 # Installing the Lectionary Tool
 
-1. Download https://goo.gl/GPfJsV and unzip the file into its own directory.
-2. Run LuaFowWindows*.exe to install Lua for Windows. 
+1. Go to https://goo.gl/E5T30a and download the SileLectionary.zip file.
+
+2. Unzip the file into its own directory.
+For the rest of this document we will assume you unzipped this in a directory
+called SileLectionary.
+
+3. Run LuaFowWindows*.exe to install Lua for Windows. 
 
 # Creating a Lectionary Project in Paratext
 
@@ -34,14 +39,23 @@ The code has been succesfully used to produce lectionaries for Year A, B, and C 
   + Choose *Copy from specification file*. Browse to the directory where you installed the lectionary tool and go to the *Modules* subdirectory. 
   + Pick the control file corresponding to the year you wish to typeset, e.g. Year_A.sfm, B, or C.
     + There is also Year_A_NT.SFM (etc). This only has the NT references. That means you don't have to provide any text for OT references but the reader will have to juggle two different lectionaries to do the morning reading. That may make using your lectionary just "too much trouble" and limit its use. These files have not been very carefully checked yet.
-5. Verify that all references are found by clicking on the icon in the top right of the winow (icon is a sheet of paper with a blue checkmark). If any references are missing you will need to either modify the references in your project text or modify the references in the module.
+5. **IMPORTANT:** Verify that all references are found by clicking on the icon in the top right of the winow (icon is a sheet of paper with a blue checkmark). This will also cause Paratext to pull the text of all the references and create the file that
+the typesetting software needs as its input.
+6. If any references are missing you will need to either modify the references in your project text or modify the references in the module.
+  + If you need to modify the lectionary control file you will find it in the *My Paratext Projects\XYZ\Modules* directory.
+  + You will probably need to use an editor like Notepad to edit this file. In theory it could be edited in Paratext but this is difficult because when the Module support was originally created people were thinking of 10 page pamphlets and not 300 page lectionaries and so the in Paratext editing support is current buggy and slow for modules of this size.
 
 # Typesetting a Lectionary Volume
 
-1. Go to the directory that you installed the lectionary software in.
+1. Go to the SileLectionary directory.
 2. To typeset XXA double click the file XXA.bat.
-3. The first time you do this you will be prompted to enter the name of the project you are typesetting. This will be stored in the *ProjectName* file in the software directory. You can change this at any time by deleting the file causing the software to reprompt you for the project name.
-4. Typesetting should begin. WARNING: The first time you run this the program gathers information on all the fonts on your machine. This might take a minute or two. Next, a list of the page numbers being typeset should be shown, e.g. [1] [2] ... . On my machine it takes around ten minutes to typeset a 200 page volume.
+3. The first time you do this you will be prompted to enter the name of the project you are typesetting. 
+This is the Paratext short name, e.g. TPLCT, of the Paratext project you setup in the previous section.
+This will be stored in the *ProjectName* file in the software directory. You can change this at any time by deleting the file causing the software to reprompt you for the project name.
+4. Typesetting should begin. 
+  + WARNING: The first time you run this the program gathers information on all the fonts on your machine. This might take a minute or two. 
+  + Next, a list of the page numbers being typeset should be shown, e.g. [1] [2] ... . On my laptop it takes around ten minutes to typeset a 200 page volume.
+  + The resulting .pdf will be in the *SileLectionary/lectionary* directory.
 
 ## Unknown Styles or Changing Style Formatting
 
@@ -76,3 +90,15 @@ In the longer term I think we are going to want to allow the following in the ta
     \p He said, ...
 
 By putting the adaptation in a \rem (remark) statement the normal translation/typesetting procedures would not be impacted by the lectionary changes.
+
+# Source Code
+
+This project is hosted at https://github.com/Nathan22Miles/SileLectionary.git and is freely
+available subject to the licensing restrictions of the SILE code it is based on.
+The build process is extremely ugly because the component parts were drawn from a wide variety
+of sources and there has not been time to put them into any kind of common framework.
+Sadly the Lua code was the first Lua code I ever wrote and looks like it.
+I can think of a half dozen other things to apologize for about this project 
+the was done way too fast but instead
+I will just request that you to evaluate it by the "The Dancing Bear Standard", i.e. the amazing thing
+about a dancing bear is not how gracefully it dances but that it manages to dance at all.
